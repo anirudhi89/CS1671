@@ -1,2 +1,5 @@
 # CS1671
-CS1671: Natural Language Processing
+Repository for Projects, Assignments, and Labs for CS1671: Human Language Technologies (NLP) at the University of Pittsburgh
+
+## Assignment 1: Regular Expression
+
