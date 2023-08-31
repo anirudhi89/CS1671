@@ -1,3 +1,5 @@
-#For now ignore all
-*
+#For now ignore all assignment folders
+assignment*/
 !README.MD
+
+.DS_Store
