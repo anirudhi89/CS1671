@@ -3,3 +3,5 @@ assignment*/
 !README.MD
 
 .DS_Store
+
+!assignment1/Dockerfile
