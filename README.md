@@ -14,8 +14,11 @@ To use this, first ensure docker buildx is installed. Run `docker buildx install
 Navigate to the directory with the Dockerfile, and run :`docker buildx build --platform linux/amd64,linux/arm64 -t TAGNAME-HERE .`
 Then run `docker run --rm -it TAGNAME-HERE`
 
+Keep in mind that building this docker image will take some time (25-30 minutes), because compiling Python from source is a slow process.
+
 ## Assignment 1: Regular Expression
+- Use regular experessions to extract information from the dataset
 
-
-## Assignment 2
-
+## Assignment 2: N-grams
+- Predict the next character in a sequence, given the previous characters.
+- Optional Assignment for Masters Students: Decode Caesar Cipher using N-grams
