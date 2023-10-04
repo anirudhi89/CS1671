@@ -22,3 +22,5 @@ Keep in mind that building this docker image will take some time (25-30 minutes)
 ## Assignment 2: N-grams
 - Predict the next character in a sequence, given the previous characters.
 - Optional Assignment for Masters Students: Decode Caesar Cipher using N-grams
+
+## Assignment 3: Naive Bayes Text Classification
