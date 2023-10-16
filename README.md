@@ -5,6 +5,10 @@ Each repository will contain the sourcecode, a README, input data files (if appl
 
 There is a general template for the Dockerfile in the root of this repository, but each assignment may have its own Dockerfile.
 
+Per the university's academic integrity policy, I am unable to post the code here at this moment.
+
+If you're interested in viewing the code, please send me an email at [anirudh.iyer@outlook.com](mailto:anirudh.iyer@outlook.com)
+
 ## Docker Image;
 - OS: Ubuntu 22.04.2 LTS
 - Architecture: Multi-architecture (amd64, arm64)
@@ -18,9 +22,11 @@ Keep in mind that building this docker image will take some time (25-30 minutes)
 
 ## Assignment 1: Regular Expression
 - Use regular experessions to extract information from the dataset
+- Score: 99/10
 
 ## Assignment 2: N-grams
 - Predict the next character in a sequence, given the previous characters.
 - Optional Assignment for Masters Students: Decode Caesar Cipher using N-grams
+- Score: 100/100
 
 ## Assignment 3: Naive Bayes Text Classification
