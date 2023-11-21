@@ -29,4 +29,9 @@ Keep in mind that building this docker image will take some time (25-30 minutes)
 - Optional Assignment for Masters Students: Decode Caesar Cipher using N-grams
 - Score: 100/100
 
-## Assignment 3: Naive Bayes Text Classification
+## Assignment 3: Naive Bayes and Logistic Regression Text Classification
+- Naive Bayes and Logistic Regression Classifier to classify words as simple or complex in text documents
+- Score: 85/100
+
+## Assignment 4: Vector Space Models
+- Vector Space Model to find similar words in a dataset of Shakespeare plays
