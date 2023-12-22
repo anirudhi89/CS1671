@@ -1,0 +1,16 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+Computing PPMI matrix...
+
+The 10 most similar words to "romeo" using cosine-similarity on PPMI matrix are:
+1: romeo; 1.0
+2: husband; 0.3966462946032632
+3: hamlet; 0.3794057113272594
+4: claudio; 0.37818080554427935
+5: mock; 0.3776501285049861
+6: antony; 0.37517823094705854
+7: fight; 0.37512086767389574
+8: blame; 0.372215190930058
+9: question; 0.37217126018799956
+10: troilus; 0.37205430400304684

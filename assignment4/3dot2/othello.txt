@@ -1,0 +1,16 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+Computing PPMI matrix...
+
+The 10 most similar words to "othello" using cosine-similarity on PPMI matrix are:
+1: othello; 1.0
+2: iago; 0.36797954472379785
+3: handkerchief; 0.3679629630088832
+4: desdemona; 0.33981637026262973
+5: imogen; 0.3211383917445719
+6: emilia; 0.31885961256184486
+7: commanded; 0.3181789722600584
+8: presses; 0.31618309576851894
+9: cressida; 0.3161510295211329
+10: andronicus; 0.31551359678666846

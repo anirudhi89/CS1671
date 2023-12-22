@@ -1,0 +1,65 @@
+Training Set - Find Threshold
+Threshold: 0
+Precision: 0.43275
+Recall: 1.0
+F-score: 0.604083057058105
+
+
+Threshold: 1
+Precision: 0.43275
+Recall: 1.0
+F-score: 0.604083057058105
+
+
+Threshold: 2
+Precision: 0.43275
+Recall: 1.0
+F-score: 0.604083057058105
+
+
+Threshold: 3
+Precision: 0.43275
+Recall: 1.0
+F-score: 0.604083057058105
+
+
+Threshold: 4
+Precision: 0.44427244582043346
+Recall: 0.9948006932409013
+F-score: 0.6142322097378278
+
+
+Threshold: 5
+Precision: 0.48284808302104354
+Recall: 0.9676487579433853
+F-score: 0.6442307692307692
+
+
+Threshold: 6
+Precision: 0.5379449294828744
+Recall: 0.925476603119584
+F-score: 0.680399235506477
+
+
+Threshold: 7
+Precision: 0.6007401315789473
+Recall: 0.8440207972270364
+F-score: 0.7018976699495555
+
+
+Threshold: 8
+Precision: 0.6785119378123264
+Recall: 0.7059503177354131
+F-score: 0.6919592298980747
+
+
+Threshold: 9
+Precision: 0.7456279809220986
+Recall: 0.5418833044482958
+F-score: 0.6276346604215458
+
+
+Threshold: 10
+Precision: 0.7696139476961394
+Recall: 0.35701906412478335
+F-score: 0.4877663772691396

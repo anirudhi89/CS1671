@@ -1,0 +1,6 @@
+Training Set
+Threshold: 7
+Precision: 0.6007401315789473
+Recall: 0.8440207972270364
+F-score: 0.7018976699495555
+

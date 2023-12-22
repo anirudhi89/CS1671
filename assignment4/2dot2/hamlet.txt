@@ -1,0 +1,27 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "hamlet" using cosine-similarity on term-document frequency matrix are:
+1: enseamed; 1.0
+2: salary; 1.0
+3: mining; 1.0
+4: ambiguous; 1.0
+5: compost; 1.0
+6: mugger; 1.0
+7: unmaster; 1.0
+8: unfortified; 1.0
+9: southerly; 1.0
+10: mallecho; 1.0
+
+The 10 most similar words to "hamlet" using cosine-similarity on term-context frequency matrix are:
+1: hamlet; 1.0000000000000002
+2: timon; 0.7194111822249127
+3: talbot; 0.7152360446366
+4: my; 0.7060910312824502
+5: angelo; 0.6783692452061154
+6: warwick; 0.6759454280635958
+7: gloucester; 0.6626848059642952
+8: bassanio; 0.6562996204828578
+9: good; 0.6520633989355376
+10: fortune; 0.6509673300596959

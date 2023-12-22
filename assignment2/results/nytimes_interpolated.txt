@@ -1,0 +1,744 @@
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 2
+K: 0
+L: [0.33, 0.33, 0.33]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 12.302969484739712
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 10.987360857273643
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 11.021006098310442
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 11.06775086103512
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 12.606316611938961
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 10.452760080752123
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 10.314430256689976
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 12.828968261251385
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 12.279557613098149
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 11.830459780466688
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 11.582327579274045
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 11.373520381315686
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 11.233206837349341
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 10.465127518253626
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 10.753041346443652
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 10.0673213631178
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 10.368526547717336
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 10.45668982898316
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 10.982169537814547
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 14.167606636599965
+Total lines: 20
+Average Perplexity: 11.357055874121269
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 2
+K: 0
+L: [0.5, 0.33, 0.17]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 13.218952588263415
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 12.231389147265519
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 12.21625457070838
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 12.523369882501454
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 13.806315310699956
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 11.770203749580038
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 12.061015998883812
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 14.433915165628576
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 13.619806292096726
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 13.189269356363553
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 12.817358776509682
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 12.672423541858667
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 12.698806038591556
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 12.171874531944624
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 12.137356695893786
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 11.374107257983141
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 11.593411611686085
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 11.627215900419214
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 12.246872932971698
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 14.984209604659112
+Total lines: 20
+Average Perplexity: 12.669706447725451
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 2
+K: 0.5
+L: [0.33, 0.33, 0.33]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 12.62079225036124
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 11.104160569876209
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 11.144148573320004
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 11.520095805121127
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 13.057691244872954
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 11.130262729440778
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 12.424979775326866
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 13.857732460047673
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 13.527094349316998
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 12.451321065423146
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 11.964794708130473
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 11.646672649997257
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 12.401768415577664
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 11.568865908763831
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 11.328878858112079
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 11.079970387097001
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 10.56323270170478
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 10.41173811902163
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 11.120505400053458
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 14.754448802939708
+Total lines: 20
+Average Perplexity: 11.983957738725245
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 2
+K: 0.5
+L: [0.5, 0.33, 0.17]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 13.6250627494886
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 12.488716338727377
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 12.422314832922615
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 12.8830912209093
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 14.460095444839943
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 12.398567572886728
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 13.889231861074798
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 15.620681388193741
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 14.928315708729052
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 13.76360743096445
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 13.32421081118724
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 12.961661529135439
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 13.882844224113263
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 13.291733894377073
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 12.745937316163221
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 12.377751896124904
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 11.891898095109518
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 11.703102001807743
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 12.496303772729325
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 15.758445410989497
+Total lines: 20
+Average Perplexity: 13.345678675023692
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 2
+K: 1
+L: [0.33, 0.33, 0.33]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 12.434721894272855
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 10.964181628154993
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 10.970425684660718
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 11.37091074292331
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 12.752490955719518
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 10.996613984108377
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 12.385738481862369
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 13.43458910382204
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 13.258538346799147
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 12.291939070619492
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 11.8636324400811
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 11.56270048304819
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 12.16824837018245
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 11.481982236920965
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 11.193065918768985
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 10.99875503687158
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 10.526569912328922
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 10.309029362217121
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 10.953146074289934
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 14.42072220931175
+Total lines: 20
+Average Perplexity: 11.81690009684819
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 2
+K: 1
+L: [0.5, 0.33, 0.17]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 13.563744164502946
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 12.44765960591007
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 12.369750129119854
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 12.84289527099808
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 14.335434720083745
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 12.384592587518839
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 14.0038757539846
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 15.441859309092006
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 14.876210289607773
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 13.703582670370615
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 13.352262766599168
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 12.958373602576174
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 13.832658999280891
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 13.32706498359037
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 12.714872311023782
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 12.42608797432965
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 11.926091363490398
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 11.675358401307983
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 12.433448281205848
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 15.64099886142296
+Total lines: 20
+Average Perplexity: 13.312841102300785
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 3
+K: 0
+L: [0.25, 0.25, 0.25, 0.25]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 7.385740593393112
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 6.928293490090833
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 6.9650142160275905
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 6.865682175113199
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 6.590314210199356
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 6.6904471487028845
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 5.9851044025507525
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 6.802420051245285
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 6.991860045137677
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 6.868781148915483
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 6.849763299712608
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 7.243597320060698
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 6.160466290838472
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.204483578807285
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 6.9196646257611825
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 6.283264320656399
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 6.8072005237042115
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 6.706547740210688
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 6.87071212814857
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 6.675948444586226
+Total lines: 20
+Average Perplexity: 6.739765287693126
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 3
+K: 0
+L: [0.3, 0.3, 0.2, 0.2]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 7.718581932185447
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 7.166827335787324
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 7.2882437275752485
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 7.267933424358858
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 6.988614808027265
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 7.016969732156109
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 6.412242365926899
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 7.237622769269835
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 7.238088739531908
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 7.261239888981399
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 7.188936100587025
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 7.559871893601189
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 6.506481480029859
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.597241905341978
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 7.33055847929303
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 6.64592277256657
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 7.0718503816999645
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 7.002937211056252
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 7.162120669147274
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 7.0343184283753155
+Total lines: 20
+Average Perplexity: 7.0848302022749365
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 3
+K: 0.5
+L: [0.25, 0.25, 0.25, 0.25]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 9.669277851933957
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 8.411113348954512
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 8.70648285737233
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 8.65312988632402
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 9.273734172042635
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 8.508218776472416
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 8.856527547742385
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 9.637530265099752
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 9.708362654494945
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 9.242481430766219
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 9.109616677800016
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 9.03755061800806
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 8.59176745333541
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 8.242669937687873
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 8.850899001703219
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 8.245895038533709
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 8.117350718848257
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 8.075287717524294
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 8.474099725008044
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 10.503943388354484
+Total lines: 20
+Average Perplexity: 8.895796953400328
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 3
+K: 0.5
+L: [0.3, 0.3, 0.2, 0.2]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 9.805005627453513
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 8.652344418684448
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 8.887920196654635
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 8.917279773983038
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 9.457248930969591
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 8.705435319570125
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 9.074180063481489
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 9.89073360876006
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 9.800820368914202
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 9.48420050111656
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 9.320245862530218
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 9.276753470205858
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 8.787397741487542
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 8.548305852546907
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 9.090092903787994
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 8.484545178246453
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 8.376158103761371
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 8.320811204218561
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 8.727405674615142
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 10.572096956147206
+Total lines: 20
+Average Perplexity: 9.108949087856747
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 3
+K: 1
+L: [0.25, 0.25, 0.25, 0.25]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 9.859811910256623
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 8.580280672420256
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 8.836597160473481
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 8.890688492110444
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 9.507645404473323
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 8.684666778470195
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 9.270901866910846
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 9.92031267490157
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 9.919760813103526
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 9.565527720011367
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 9.39470861336491
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 9.277341076730476
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 8.86925824256394
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 8.641379554716368
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 9.084752740707193
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 8.520302267511621
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 8.345910712073378
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 8.228676556079977
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 8.64068271137429
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 10.85707299252975
+Total lines: 20
+Average Perplexity: 9.144813948039179
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 3
+K: 1
+L: [0.3, 0.3, 0.2, 0.2]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 10.115094162085995
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 8.921439204588673
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 9.131466996890518
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 9.246862737961324
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 9.824933182831476
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 8.984995198366663
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 9.59508224217929
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 10.313090155415477
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 10.179297294375568
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 9.893384438408061
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 9.71309576227395
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 9.599377378838302
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 9.18884954277732
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 9.021027806628965
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 9.406595056394151
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 8.837189964958482
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 8.681685678023278
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 8.555435952310766
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 8.983438178318652
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 11.070122651803231
+Total lines: 20
+Average Perplexity: 9.46312317927151
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 4
+K: 0
+L: [0.2, 0.2, 0.2, 0.2, 0.2]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 4.190898720597086
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 4.081780124255691
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 4.03510141069968
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 4.071332661547706
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 3.729349831184544
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 4.104465315852416
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 3.8284613239517755
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 3.791759835614748
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 3.6734774283803193
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 4.308201095552716
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 4.2303606666552245
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 4.289874236316501
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 3.7359437956470707
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 3.9507411497508476
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 4.253059294775189
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 4.079286726126843
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 4.06878695651279
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 4.233386583533677
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 4.26620585209617
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 3.730513587825912
+Total lines: 20
+Average Perplexity: 4.032649329843844
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 4
+K: 0
+L: [0.5, 0.2, 0.1, 0.1, 0.1]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 6.3421113543155405
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 6.136331851950569
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 6.155190245663614
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 6.166762138467252
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 5.852192199452136
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 6.110329873000302
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 5.838120273862845
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 6.034786341667633
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 5.750316444464079
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 6.40557615189254
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 6.273804526198861
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 6.3311650954502605
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 5.721594348316205
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.016966803532157
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 6.3540753755574855
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 6.081659288676264
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 6.007851582850291
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 6.197876661820404
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 6.3122559965843505
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 5.781147382619266
+Total lines: 20
+Average Perplexity: 6.093505696817102
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 4
+K: 0.5
+L: [0.2, 0.2, 0.2, 0.2, 0.2]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 7.706114241970132
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 6.818127767116362
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 7.095461789123556
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 7.027261521442492
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 7.155862757517804
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 6.926867590426242
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 7.029793714854397
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 7.335373041501439
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 7.27567790067029
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 7.656385257698073
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 7.398437348471534
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 7.299367189953457
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 6.5801653794587605
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.717560394557844
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 7.263365846310228
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 6.737832206800274
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 6.534490076328183
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 6.640709363882376
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 6.964665338502855
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 8.087318013066305
+Total lines: 20
+Average Perplexity: 7.112541836982631
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 4
+K: 0.5
+L: [0.5, 0.2, 0.1, 0.1, 0.1]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 9.843170770311172
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 8.969389019034207
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 9.279975790578339
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 9.209213179546264
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 9.542527274381337
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 9.046692565148037
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 9.392363117954233
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 10.028587004943509
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 9.674430797585984
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 9.908725604335196
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 9.628044800955662
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 9.5146510237449
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 8.863580441971408
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 9.113690110375904
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 9.497781485035805
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 8.94033836185275
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 8.626254600676484
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 8.732246732438897
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 9.191664526572007
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 10.468239625798153
+Total lines: 20
+Average Perplexity: 9.373578341662014
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 4
+K: 1
+L: [0.2, 0.2, 0.2, 0.2, 0.2]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 8.313958805853915
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 7.316818360153917
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 7.6003501223094245
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 7.604898363577195
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 7.822575647985336
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 7.4309486772768185
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 7.756105556408218
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 8.050638010301585
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 7.976756786352435
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 8.344020269205737
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 8.037651960374358
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 7.9046941311788
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 7.198424036248721
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 7.380057893534653
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 7.843570545304535
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 7.306294889556128
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 7.081695897456041
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 7.1018759127122415
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 7.463916721692146
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 8.97665647930214
+Total lines: 20
+Average Perplexity: 7.725595453339219
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 4
+K: 1
+L: [0.5, 0.2, 0.1, 0.1, 0.1]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 10.514367149713053
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 9.55248232061776
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 9.867127252370308
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 9.860688047374225
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 10.31343100528392
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 9.639775293261948
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 10.233492467211876
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 10.871386922032192
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 10.507121673897885
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 10.644179620265577
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 10.358404346755897
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 10.180607914232494
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 9.606556739712735
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 9.893284380458699
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 10.155248604700498
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 9.592658569076594
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 9.243550460839352
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 9.264262455770025
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 9.763604798579136
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 11.424344948179158
+Total lines: 20
+Average Perplexity: 10.074328748516667
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 7
+K: 0
+L: [0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 1.9456608507053936
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 1.980162196270161
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 1.9613846500974417
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 2.0163751231631375
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 1.9455588990879236
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 1.9681989299520033
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 1.9553321021597256
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 1.8878451825304887
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 1.8635345036817446
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 1.9960118008937113
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 1.950943768565059
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 2.047341401310006
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 1.9502019412592344
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 1.9680366425299136
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 2.107661794927696
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 2.126271350253869
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 2.101723710084564
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 2.145043974262888
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 2.0536170794378443
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 1.9490535304516683
+Total lines: 20
+Average Perplexity: 1.995997971581224
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 7
+K: 0
+L: [0.3, 0.15, 0.15, 0.1, 0.1, 0.1, 0.05, 0.05]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 2.9138679619678762
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 2.9291109660411454
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 2.9337646251892813
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 2.9501637402368215
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 2.84593121209466
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 2.90722313670504
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 2.8472267558253277
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 2.7750137500974734
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 2.7312273615494536
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 2.9369270412205295
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 2.856861517463654
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 2.9679214236703597
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 2.8132318577295736
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 2.827569510013763
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 3.0592771050013177
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 3.021905975793052
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 2.9800100850438165
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 3.0550372099605703
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 2.979607127589266
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 2.8324116621626323
+Total lines: 20
+Average Perplexity: 2.9082145012677807
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 7
+K: 0.5
+L: [0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 6.757880902166372
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 6.162529911762682
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 6.422208758009625
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 6.401624653173238
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 6.362869955174865
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 6.244172798694865
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 6.342472374784955
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 6.429974262514427
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 6.297478888640669
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 6.954317379915209
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 6.561327816707102
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 6.601367202588113
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 5.88385782313795
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.072316147336329
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 6.662457560630437
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 6.185282722338085
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 5.934439183642756
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 6.068663915884397
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 6.342493378054216
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 7.177172099536351
+Total lines: 20
+Average Perplexity: 6.393245386734632
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 7
+K: 0.5
+L: [0.3, 0.15, 0.15, 0.1, 0.1, 0.1, 0.05, 0.05]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 7.1092375539259045
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 6.494193303264922
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 6.7508411259481536
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 6.71068780612839
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 6.7210465058511195
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 6.554733892885873
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 6.687048666657363
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 6.798949323201352
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 6.658644161770953
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 7.286948302528146
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 6.913826644162799
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 6.940493273632271
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 6.225579595004025
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.421409312374231
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 6.970156547004303
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 6.549379713139875
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 6.299943273019542
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 6.434305139675844
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 6.689057486071183
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 7.521111746700206
+Total lines: 20
+Average Perplexity: 6.736879668647322
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 7
+K: 1
+L: [0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 7.724570416030676
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 6.979518423508739
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 7.266088874891531
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 7.304228851340271
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 7.320616535945073
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 7.065554153027208
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 7.3423866695054345
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 7.423649408549975
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 7.283891398585599
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 7.99864513992778
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 7.553975294184874
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 7.540230301097617
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 6.745549712555884
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 6.988014305945345
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 7.5944731294088905
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 7.03430351334373
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 6.768659591025945
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 6.841201913931033
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 7.17383544600026
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 8.386545695721844
+Total lines: 20
+Average Perplexity: 7.3167969387263865
+
+2.3 New York Times Article Perplexity with Interpolation
+
+
+Model Class: NgramModelWithInterpolation
+File Name: test_data/nytimes_article.txt
+C: 7
+K: 1
+L: [0.3, 0.15, 0.15, 0.1, 0.1, 0.1, 0.05, 0.05]
+Perplexity of 'As stocks maintained their smooth and steady climb in recent years, few trades were as alluring, or as profitable, as a bet that volatility as measured by Wall Street�s so-called fear gauge had vanished.' is 8.099577138648456
+Perplexity of 'Hedge fund titans in their Manhattan offices and day traders in their living rooms have poured billions of dollars into opaque, debt-fueled funds known as exchange-traded notes, racier versions of the exchange-traded funds that track every variety of index or investment and can be bought and sold just like a stock.' is 7.329095865778521
+Perplexity of 'Now stocks are swinging wildly and volatility is soaring � and investors who piled into these funds, confident that the calm would continue, are getting rattled. On Tuesday, Credit Suisse, the sponsor of the most popular fund for making such bets, said it was closing down the fund.' is 7.612470351140053
+Perplexity of 'Credit Suisse closed the fund � informally called XIV, which moves in the opposite direction of the fear gauge, known as VIX � after it experienced a fall of greater than 80 percent, a price drop that left XIV trading at a deep discount relative to the value of its assets.' is 7.6144568394702326
+Perplexity of 'It had been an extraordinary ride for XIV, formally known as the Velocity Shares Daily Inverse VIX Short Term ETN. It was one of a number of funds tied to VIX, known officially as the Chicago Board Options Exchange Volatility Index, some of which move in the same direction, tracking the index up or down.' is 7.706391082923779
+Perplexity of 'VIX, which measures investor expectations that stocks will rise or fall sharply in the future, has been at extreme lows in recent years, making XIV very attractive to investors and pushing it to $1.8 billion in size. Just last Wednesday, it took in a record $500 million, as investors stuck even more firmly to their belief that volatility was not a concern.' is 7.395886175777804
+Perplexity of 'In the two years from January 2016 to the middle of last month, XIV�s value shot up more than 500 percent, reaching a recent peak of $134.' is 7.7155079609020225
+Perplexity of 'After VIX surged on Monday, XIV dropped like a rock, falling from $99 to $7 in after-hours trading.' is 7.8417258480580365
+Perplexity of 'In just two days, investors in XIV and a similar fund, ProShares Short VIX Short Term Futures (SVXY), saw their assets shrink dramatically, from a combined total of $3 billion to about $150 million.' is 7.688407067488482
+Perplexity of '�People are scared out of their minds � they are in really rough shape,� said Seth Golden, who left his job as a manager at a Target store to take up shorting VIX as a full-time business from his living room in Ocala, Fla.' is 8.32829646338172
+Perplexity of 'Profiled in The New York Times last summer, Mr. Golden exemplifies, perhaps in a cautionary way, how easy it has become to gamble on whether volatility in the stock market will be high or low.' is 7.914687307006537
+Perplexity of 'He has been able to do so because investment banks have created more than 30 high-risk, high-return securities that allow any investor to bet against VIX. Some of the products require large amounts of leverage, debt that can amplify gains and losses.' is 7.891162770345965
+Perplexity of 'Mr. Golden�s preferred vehicles are the iPath S&P 500 VIX Short Term Futures and ProShares Ultra VIX Short-Term Futures, which he has been betting against for years in trades that have been lucrative � until now.' is 7.1227883127295755
+Perplexity of 'After VIX shot up 100 percent, the largest move in its history, to 35.73 on Monday, Mr. Golden acknowledged that he was feeling some pain. On Tuesday, the index spiked again, reaching 50 before falling back to just below 30.' is 7.367189265136359
+Perplexity of '�It is really stressful,� he said. �I was up until the wee hours, checking my phone to see where VIX futures were trading.�' is 7.904885850370753
+Perplexity of 'Nonetheless, he said on Tuesday that he was still wagering 21 percent of his portfolio, or $600,000, that volatility would fall as it had in the past.' is 7.414691829763401
+Perplexity of 'That Mr. Golden and others like him are getting hurt on these risky, niche trades should not, in theory, have a wider effect on the market. While investments in these funds have been substantial recently, their combined value is just $4 billion, a blip in a market worth trillions of dollars.' is 7.140918062824801
+Perplexity of 'But volatility specialists have warned for years that the popularity of the investments has skewed the broader VIX index, keeping it artificially low in good times and pushing it higher than it should go in times of stress.' is 7.215074503785406
+Perplexity of 'That was the case on Monday, bankers and traders said, when XIV collapsed as VIX soared in late-afternoon trading. That was because as XIV and SVXY plummeted, traders were forced to scoop up hundreds of millions of dollars in VIX futures to cover the short positions they had on the index. That drove it higher and prompted computerized trading systems to sell stocks and bonds by the truckload.' is 7.528397552352306
+Perplexity of '�These products definitely had an impact on the VIX,� said Pravit Chintawongvanich, the head of derivatives strategy at Macro Risk Advisors. �And that exacerbated the decline in stocks. It was a vicious circle.�' is 8.751113124492122
+Total lines: 20
+Average Perplexity: 7.679136168618816
+

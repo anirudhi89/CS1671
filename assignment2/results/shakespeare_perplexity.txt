@@ -1,0 +1,929 @@
+2.1 Shakespeare Sonnets Perplexity
+
+Model Class: NgramModel
+File Name: test_data/shakespeare_sonnets.txt
+C: 2
+K: 0
+Perplexity of 'I' is 1.0
+Perplexity of 'From fairest creatures we desire increase,' is 1.3318588021570454
+Perplexity of 'That thereby beauty's rose might never die,' is 1.3261133263643496
+Perplexity of 'But as the riper should by time decease,' is 1.4980532478720991
+Perplexity of 'His tender heir might bear his memory:' is 1.6818001090558878
+Perplexity of 'But thou contracted to thine own bright eyes,' is 1.5823151122331838
+Perplexity of 'Feed'st thy light's flame with self-substantial fuel,' is 1.6042869401432855
+Perplexity of 'Making a famine where abundance lies,' is 1.9754906585895577
+Perplexity of 'Thy self thy foe, to thy sweet self too cruel:' is 1.8850967534156695
+Perplexity of 'Thou that art now the world's fresh ornament,' is 2.097431685785995
+Perplexity of 'And only herald to the gaudy spring,' is 2.1307275436055266
+Perplexity of 'Within thine own bud buriest thy content,' is 2.2650009757313647
+Perplexity of 'And tender churl mak'st waste in niggarding:' is 2.4585525346459534
+Perplexity of '  Pity the world, or else this glutton be,' is 2.4414820327248115
+Perplexity of '  To eat the world's due, by the grave and thee.' is 2.3238725831632525
+Perplexity of 'II' is 2.82842712474619
+Perplexity of 'When forty winters shall besiege thy brow,' is 3.2903178282600893
+Perplexity of 'And dig deep trenches in thy beauty's field,' is 2.966527929903438
+Perplexity of 'Thy youth's proud livery so gazed on now,' is 2.6037412675609524
+Perplexity of 'Will be a tatter'd weed of small worth held: ' is 2.941183405192012
+Perplexity of 'Then being asked, where all thy beauty lies,' is 2.607206908321406
+Perplexity of 'Where all the treasure of thy lusty days; ' is 2.745275066800746
+Perplexity of 'To say, within thine own deep sunken eyes,' is 2.5419585256575963
+Perplexity of 'Were an all-eating shame, and thriftless praise.' is 2.829959047821068
+Perplexity of 'How much more praise deserv'd thy beauty's use,' is 2.6695580494737263
+Perplexity of 'If thou couldst answer 'This fair child of mine' is 2.6290193501969146
+Perplexity of 'Shall sum my count, and make my old excuse,'' is 3.033582956679895
+Perplexity of 'Proving his beauty by succession thine!' is 2.584885101555813
+Perplexity of '  This were to be new made when thou art old,' is 3.2964938745101944
+Perplexity of '  And see thy blood warm when thou feel'st it cold.' is 3.194946828552894
+Perplexity of 'III' is 2.2653274480417465
+Perplexity of 'Look in thy glass and tell the face thou viewest' is 3.083918931738764
+Perplexity of 'Now is the time that face should form another;' is 3.4408224567953765
+Perplexity of 'Whose fresh repair if now thou not renewest,' is 3.5785667835228154
+Perplexity of 'Thou dost beguile the world, unbless some mother.' is 2.9177110497352237
+Perplexity of 'For where is she so fair whose unear'd womb' is 3.838502868734945
+Perplexity of 'Disdains the tillage of thy husbandry?' is 3.1130213879683217
+Perplexity of 'Or who is he so fond will be the tomb,' is 3.583676278701353
+Perplexity of 'Of his self-love to stop posterity? ' is 3.510609266154088
+Perplexity of 'Thou art thy mother's glass and she in thee' is 3.131189889716905
+Perplexity of 'Calls back the lovely April of her prime;' is 3.5710878471250878
+Perplexity of 'So thou through windows of thine age shalt see,' is 3.8729938730298548
+Perplexity of 'Despite of wrinkles this thy golden time.' is 3.5657057235154355
+Perplexity of '  But if thou live, remember'd not to be,' is 3.2113939544043175
+Perplexity of '  Die single and thine image dies with thee.' is 3.9064251038572104
+Perplexity of 'IV' is 6.066300355241241
+Perplexity of 'Unthrifty loveliness, why dost thou spend' is 3.6205901964883287
+Perplexity of 'Upon thy self thy beauty's legacy?' is 2.6463966989339633
+Perplexity of 'Nature's bequest gives nothing, but doth lend,' is 3.913299762904766
+Perplexity of 'And being frank she lends to those are free:' is 4.190162311086901
+Perplexity of 'Then, beauteous niggard, why dost thou abuse' is 3.1174058738549575
+Perplexity of 'The bounteous largess given thee to give?' is 4.038548223521157
+Perplexity of 'Profitless usurer, why dost thou use' is 3.23446113893168
+Perplexity of 'So great a sum of sums, yet canst not live?' is 3.3562434274207504
+Perplexity of 'For having traffic with thy self alone,' is 3.6057631776417685
+Perplexity of 'Thou of thy self thy sweet self dost deceive:' is 2.7705036591371406
+Perplexity of 'Then how when nature calls thee to be gone,' is 4.1765417357857455
+Perplexity of 'What acceptable audit canst thou leave?' is 3.8450532187632764
+Perplexity of '  Thy unused beauty must be tombed with thee,' is 3.534547233705952
+Perplexity of '  Which, used, lives th' executor to be.' is 3.7385827036781345
+Perplexity of 'V' is 61.00000000000001
+Perplexity of 'Those hours, that with gentle work did frame' is 4.332348800106933
+Perplexity of 'The lovely gaze where every eye doth dwell,' is 4.421271987077574
+Perplexity of 'Will play the tyrants to the very same' is 4.027429843609382
+Perplexity of 'And that unfair which fairly doth excel;' is 3.5422543846032943
+Perplexity of 'For never-resting time leads summer on' is 4.306284900254311
+Perplexity of 'To hideous winter, and confounds him there;' is 4.961393260951644
+Perplexity of 'Sap checked with frost, and lusty leaves quite gone,' is 4.041461525501359
+Perplexity of 'Beauty o'er-snowed and bareness every where:' is 4.347432730429431
+Perplexity of 'Then were not summer's distillation left,' is 4.547919110424313
+Perplexity of 'A liquid prisoner pent in walls of glass,' is 4.510383658531436
+Perplexity of 'Beauty's effect with beauty were bereft,' is 3.5483759423452526
+Perplexity of 'Nor it, nor no remembrance what it was:' is 4.949166569536154
+Perplexity of '  But flowers distill'd, though they with winter meet,' is 4.450028711763586
+Perplexity of '  Leese but their show; their substance still lives sweet.' is 3.9437474093814013
+Perplexity of 'VI' is 6.164414002968976
+Perplexity of 'Then let not winter's ragged hand deface,' is 4.568618620574934
+Perplexity of 'In thee thy summer, ere thou be distill'd:' is 3.6019450106305984
+Perplexity of 'Make sweet some vial; treasure thou some place' is 3.6965344135434752
+Perplexity of 'With beauty's treasure ere it be self-kill'd.' is 3.506538877240348
+Perplexity of 'That use is not forbidden usury,' is 3.8760479271232966
+Perplexity of 'Which happies those that pay the willing loan;' is 4.029562224441363
+Perplexity of 'That's for thy self to breed another thee,' is 3.6906165028990143
+Perplexity of 'Or ten times happier, be it ten for one;' is 4.656776506605276
+Perplexity of 'Ten times thy self were happier than thou art,' is 3.6827784308791474
+Perplexity of 'If ten of thine ten times refigur'd thee:' is 3.948028028887487
+Perplexity of 'Then what could death do if thou shouldst depart,' is 3.9969602528036736
+Perplexity of 'Leaving thee living in posterity?' is 4.408206671137615
+Perplexity of '  Be not self-will'd, for thou art much too fair' is 3.2736231312594053
+Perplexity of '  To be death's conquest and make worms thine heir.' is 3.9363488123396078
+Perplexity of 'VII' is 3.118698412450697
+Perplexity of 'Lo! in the orient when the gracious light' is 4.037464439466974
+Perplexity of 'Lifts up his burning head, each under eye' is 4.960832050295022
+Perplexity of 'Doth homage to his new-appearing sight,' is 4.210184045564607
+Perplexity of 'Serving with looks his sacred majesty; ' is 4.1858182825887065
+Perplexity of 'And having climb'd the steep-up heavenly hill,' is 4.341795460637343
+Perplexity of 'Resembling strong youth in his middle age,' is 5.441677582165901
+Perplexity of 'Yet mortal looks adore his beauty still,' is 4.39055595076617
+Perplexity of 'Attending on his golden pilgrimage:' is 4.50510417417443
+Perplexity of 'But when from highmost pitch, with weary car,' is 4.730622355228266
+Perplexity of 'Like feeble age, he reeleth from the day,' is 5.131262279895936
+Perplexity of 'The eyes, 'fore duteous, now converted are' is 4.400582524199084
+Perplexity of 'From his low tract, and look another way:' is 3.725761250865101
+Perplexity of '  So thou, thyself outgoing in thy noon:' is 4.215261731342081
+Perplexity of '  Unlook'd, on diest unless thou get a son.' is 4.2262021561905785
+Perplexity of 'VIII' is 2.2688796950242867
+Perplexity of 'Music to hear, why hear'st thou music sadly?' is 4.360968872469425
+Perplexity of 'Sweets with sweets war not, joy delights in joy:' is 4.073486359269673
+Perplexity of 'Why lov'st thou that which thou receiv'st not gladly,' is 3.730654693034707
+Perplexity of 'Or else receiv'st with pleasure thine annoy?' is 4.380397523970426
+Perplexity of 'If the true concord of well-tuned sounds,' is 5.412124995145827
+Perplexity of 'By unions married, do offend thine ear,' is 5.57979545412304
+Perplexity of 'They do but sweetly chide thee, who confounds' is 4.85451017753579
+Perplexity of 'In singleness the parts that thou shouldst bear. ' is 4.098667981410024
+Perplexity of 'Mark how one string, sweet husband to another,' is 4.926073859334989
+Perplexity of 'Strikes each in each by mutual ordering;' is 6.124750618655777
+Perplexity of 'Resembling sire and child and happy mother,' is 4.339243011851044
+Perplexity of 'Who, all in one, one pleasing note do sing:' is 5.014644776170883
+Perplexity of '  Whose speechless song being many, seeming one,' is 4.999437742919338
+Perplexity of '  Sings this to thee: 'Thou single wilt prove none.'' is 3.735541237354792
+Perplexity of 'IX' is 10.435516278555651
+Perplexity of 'Is it for fear to wet a widow's eye,' is 6.168446664990751
+Perplexity of 'That thou consum'st thy self in single life?' is 3.7306643412230986
+Perplexity of 'Ah! if thou issueless shalt hap to die,' is 4.833071102957692
+Perplexity of 'The world will wail thee like a makeless wife;' is 4.499372564017757
+Perplexity of 'The world will be thy widow and still weep' is 3.5961293500641176
+Perplexity of 'That thou no form of thee hast left behind,' is 4.491362068469161
+Perplexity of 'When every private widow well may keep' is 5.45990670014869
+Perplexity of 'By children's eyes, her husband's shape in mind:' is 5.305325401789792
+Perplexity of 'Look! what an unthrift in the world doth spend' is 4.114162013327364
+Perplexity of 'Shifts but his place, for still the world enjoys it;' is 4.556659153685805
+Perplexity of 'But beauty's waste hath in the world an end,' is 4.117223404972969
+Perplexity of 'And kept unused the user so destroys it.' is 5.1925927399008796
+Perplexity of '  No love toward others in that bosom sits' is 5.678690461930073
+Perplexity of '  That on himself such murd'rous shame commits.' is 5.289317890646371
+Perplexity of 'X' is 136.00000000000006
+Perplexity of 'For shame! deny that thou bear'st love to any,' is 4.033308767716688
+Perplexity of 'Who for thy self art so unprovident.' is 4.506296059167349
+Perplexity of 'Grant, if thou wilt, thou art belov'd of many,' is 4.300851107095237
+Perplexity of 'But that thou none lov'st is most evident:' is 4.055006091277256
+Perplexity of 'For thou art so possess'd with murderous hate,' is 5.289061555694331
+Perplexity of 'That 'gainst thy self thou stick'st not to conspire,' is 3.8913398531979504
+Perplexity of 'Seeking that beauteous roof to ruinate' is 4.570919910041793
+Perplexity of 'Which to repair should be thy chief desire.' is 4.682811902347869
+Perplexity of 'O! change thy thought, that I may change my mind:' is 5.048839390189423
+Perplexity of 'Shall hate be fairer lodg'd than gentle love?' is 4.914038709067684
+Perplexity of 'Be, as thy presence is, gracious and kind,' is 5.7497341825333
+Perplexity of 'Or to thyself at least kind-hearted prove:' is 4.898150424721745
+Perplexity of '  Make thee another self for love of me,' is 3.78811964473548
+Perplexity of '  That beauty still may live in thine or thee.' is 3.4770530209017676
+Perplexity of 'XI' is 8.689073598491383
+Perplexity of 'As fast as thou shalt wane, so fast thou grow'st,' is 4.8429303805080925
+Perplexity of 'In one of thine, from that which thou departest;' is 4.116640694912372
+Perplexity of 'And that fresh blood which youngly thou bestow'st,' is 4.811681472701824
+Perplexity of 'Thou mayst call thine when thou from youth convertest,' is 4.179439075782945
+Perplexity of 'Herein lives wisdom, beauty, and increase;' is 5.4212977360548855
+Perplexity of 'Without this folly, age, and cold decay:' is 4.307641762740946
+Perplexity of 'If all were minded so, the times should cease' is 5.053386188455093
+Perplexity of 'And threescore year would make the world away.' is 5.117900313192654
+Perplexity of 'Let those whom nature hath not made for store,' is 5.729465365300863
+Perplexity of 'Harsh, featureless, and rude, barrenly perish:' is 6.886050810154066
+Perplexity of 'Look, whom she best endow'd, she gave thee more;' is 5.4232621098240354
+Perplexity of 'Which bounteous gift thou shouldst in bounty cherish:' is 4.5844358613931835
+Perplexity of '  She carv'd thee for her seal, and meant thereby,' is 5.480227340377098
+Perplexity of '  Thou shouldst print more, not let that copy die.' is 4.078061904656022
+Perplexity of 'XII' is 3.810619724382096
+Perplexity of 'When I do count the clock that tells the time,' is 4.474127001687209
+Perplexity of 'And see the brave day sunk in hideous night;' is 4.709476313992151
+Perplexity of 'When I behold the violet past prime,' is 4.725864522535613
+Perplexity of 'And sable curls, all silvered o'er with white; ' is 5.437067639212397
+Perplexity of 'When lofty trees I see barren of leaves,' is 6.376206177063115
+Perplexity of 'Which erst from heat did canopy the herd,' is 5.379580487570721
+Perplexity of 'And summer's green all girded up in sheaves,' is 5.466660481414647
+Perplexity of 'Borne on the bier with white and bristly beard,' is 5.34143893135826
+Perplexity of 'Then of thy beauty do I question make,' is 3.4367554691299
+Perplexity of 'That thou among the wastes of time must go,' is 4.651048323641597
+Perplexity of 'Since sweets and beauties do themselves forsake' is 4.9800779917043
+Perplexity of 'And die as fast as they see others grow;' is 5.600950733793407
+Perplexity of '  And nothing 'gainst Time's scythe can make defence' is 4.439331368438369
+Perplexity of '  Save breed, to brave him when he takes thee hence.' is 5.159984002558133
+Perplexity of 'XIII' is 2.593609844123988
+Perplexity of 'O! that you were your self; but, love you are' is 4.688117581153824
+Perplexity of 'No longer yours, than you your self here live:' is 5.30336097704154
+Perplexity of 'Against this coming end you should prepare,' is 4.672212077115505
+Perplexity of 'And your sweet semblance to some other give:' is 4.710468062396323
+Perplexity of 'So should that beauty which you hold in lease' is 3.949977128609284
+Perplexity of 'Find no determination; then you were' is 5.678209796347891
+Perplexity of 'Yourself again, after yourself's decease,' is 5.402403925524364
+Perplexity of 'When your sweet issue your sweet form should bear. ' is 4.0494101504880735
+Perplexity of 'Who lets so fair a house fall to decay,' is 5.176212742780147
+Perplexity of 'Which husbandry in honour might uphold,' is 5.478174611852509
+Perplexity of 'Against the stormy gusts of winter's day' is 5.552215116093534
+Perplexity of 'And barren rage of death's eternal cold?' is 6.182007561253045
+Perplexity of '  O! none but unthrifts. Dear my love, you know,' is 4.150285257912585
+Perplexity of '  You had a father: let your son say so.' is 5.7823712360058215
+Perplexity of 'XIV' is 4.899319633426411
+Perplexity of 'Not from the stars do I my judgement pluck;' is 5.510808794889458
+Perplexity of 'And yet methinks I have astronomy,' is 7.501733802045784
+Perplexity of 'But not to tell of good or evil luck,' is 5.213006333186311
+Perplexity of 'Of plagues, of dearths, or seasons' quality;' is 5.808799893553944
+Perplexity of 'Nor can I fortune to brief minutes tell,' is 6.262621926997909
+Perplexity of 'Pointing to each his thunder, rain and wind,' is 5.708904589847239
+Perplexity of 'Or say with princes if it shall go well' is 5.693573983731868
+Perplexity of 'By oft predict that I in heaven find:' is 6.709059055527507
+Perplexity of 'But from thine eyes my knowledge I derive,' is 5.071447090325776
+Perplexity of 'And constant stars in them I read such art' is 5.731120810220689
+Perplexity of 'As 'Truth and beauty shall together thrive,' is 4.403923093780495
+Perplexity of 'If from thyself, to store thou wouldst convert'; ' is 4.374186922979619
+Perplexity of '  Or else of thee this I prognosticate:' is 5.143739135079494
+Perplexity of '  'Thy end is truth's and beauty's doom and date.'' is 4.796200216479279
+Perplexity of 'XV' is 13.26021618727739
+Perplexity of 'When I consider every thing that grows' is 4.501245052600829
+Perplexity of 'Holds in perfection but a little moment,' is 6.208502843623321
+Perplexity of 'That this huge stage presenteth nought but shows' is 5.783048633663028
+Perplexity of 'Whereon the stars in secret influence comment;' is 6.5201845994099425
+Perplexity of 'When I perceive that men as plants increase,' is 5.203949830674617
+Perplexity of 'Cheered and checked even by the self-same sky,' is 5.293668945325365
+Perplexity of 'Vaunt in their youthful sap, at height decrease,' is 5.849347408214569
+Perplexity of 'And wear their brave state out of memory;' is 6.221450031459328
+Perplexity of 'Then the conceit of this inconstant stay' is 4.6231367013388
+Perplexity of 'Sets you most rich in youth before my sight,' is 5.225009936163646
+Perplexity of 'Where wasteful Time debateth with decay' is 5.783532895909176
+Perplexity of 'To change your day of youth to sullied night,' is 5.866396522270949
+Perplexity of '  And all in war with Time for love of you,' is 4.142095313804052
+Perplexity of '  As he takes from you, I engraft you new.' is 5.311388190320986
+Total lines: 225
+Average Perplexity: 5.189659222551246
+
+Model Class: NgramModel
+File Name: test_data/shakespeare_sonnets.txt
+C: 3
+K: 0
+Perplexity of 'I' is 1.0
+Perplexity of 'From fairest creatures we desire increase,' is 1.122462048309373
+Perplexity of 'That thereby beauty's rose might never die,' is 1.0258782992444833
+Perplexity of 'But as the riper should by time decease,' is 1.109569472067845
+Perplexity of 'His tender heir might bear his memory:' is 1.2201203310891438
+Perplexity of 'But thou contracted to thine own bright eyes,' is 1.1517088971605987
+Perplexity of 'Feed'st thy light's flame with self-substantial fuel,' is 1.1416485135106818
+Perplexity of 'Making a famine where abundance lies,' is 1.183650572402974
+Perplexity of 'Thy self thy foe, to thy sweet self too cruel:' is 1.3305803643569596
+Perplexity of 'Thou that art now the world's fresh ornament,' is 1.3819475361173237
+Perplexity of 'And only herald to the gaudy spring,' is 1.2935059839632335
+Perplexity of 'Within thine own bud buriest thy content,' is 1.436300578615645
+Perplexity of 'And tender churl mak'st waste in niggarding:' is 1.236106365991889
+Perplexity of '  Pity the world, or else this glutton be,' is 1.404722805210121
+Perplexity of '  To eat the world's due, by the grave and thee.' is 1.4521062568195007
+Perplexity of 'II' is 2.82842712474619
+Perplexity of 'When forty winters shall besiege thy brow,' is 1.3575096320026871
+Perplexity of 'And dig deep trenches in thy beauty's field,' is 1.3078977360458393
+Perplexity of 'Thy youth's proud livery so gazed on now,' is 1.4122508830915452
+Perplexity of 'Will be a tatter'd weed of small worth held: ' is 1.456587701272311
+Perplexity of 'Then being asked, where all thy beauty lies,' is 1.5706960719756502
+Perplexity of 'Where all the treasure of thy lusty days; ' is 1.6859533356135086
+Perplexity of 'To say, within thine own deep sunken eyes,' is 1.3732066830489802
+Perplexity of 'Were an all-eating shame, and thriftless praise.' is 1.4955899123211973
+Perplexity of 'How much more praise deserv'd thy beauty's use,' is 1.4371451688109125
+Perplexity of 'If thou couldst answer 'This fair child of mine' is 1.6604645567299747
+Perplexity of 'Shall sum my count, and make my old excuse,'' is 1.368728827107578
+Perplexity of 'Proving his beauty by succession thine!' is 1.7348356164830505
+Perplexity of '  This were to be new made when thou art old,' is 1.7782743992652261
+Perplexity of '  And see thy blood warm when thou feel'st it cold.' is 1.5747699870817218
+Perplexity of 'III' is 2.2653274480417465
+Perplexity of 'Look in thy glass and tell the face thou viewest' is 1.6193805287356011
+Perplexity of 'Now is the time that face should form another;' is 1.9419368443087501
+Perplexity of 'Whose fresh repair if now thou not renewest,' is 1.5690999177940361
+Perplexity of 'Thou dost beguile the world, unbless some mother.' is 1.649028893548385
+Perplexity of 'For where is she so fair whose unear'd womb' is 1.87068534113185
+Perplexity of 'Disdains the tillage of thy husbandry?' is 1.6375171871209717
+Perplexity of 'Or who is he so fond will be the tomb,' is 2.197884337465947
+Perplexity of 'Of his self-love to stop posterity? ' is 1.5702880753928976
+Perplexity of 'Thou art thy mother's glass and she in thee' is 1.9148250870825931
+Perplexity of 'Calls back the lovely April of her prime;' is 1.8207022002050768
+Perplexity of 'So thou through windows of thine age shalt see,' is 1.7610696524880587
+Perplexity of 'Despite of wrinkles this thy golden time.' is 1.8414392298503215
+Perplexity of '  But if thou live, remember'd not to be,' is 1.8253590039390042
+Perplexity of '  Die single and thine image dies with thee.' is 1.956266287676833
+Perplexity of 'IV' is 6.066300355241241
+Perplexity of 'Unthrifty loveliness, why dost thou spend' is 1.8228002807330854
+Perplexity of 'Upon thy self thy beauty's legacy?' is 1.6089334470841057
+Perplexity of 'Nature's bequest gives nothing, but doth lend,' is 1.983690249435229
+Perplexity of 'And being frank she lends to those are free:' is 2.169501993192331
+Perplexity of 'Then, beauteous niggard, why dost thou abuse' is 1.6543422353916388
+Perplexity of 'The bounteous largess given thee to give?' is 1.8521558661978599
+Perplexity of 'Profitless usurer, why dost thou use' is 1.6849045212471896
+Perplexity of 'So great a sum of sums, yet canst not live?' is 1.8261824710851189
+Perplexity of 'For having traffic with thy self alone,' is 1.6216612857052033
+Perplexity of 'Thou of thy self thy sweet self dost deceive:' is 1.7706290064731116
+Perplexity of 'Then how when nature calls thee to be gone,' is 1.9411254128112128
+Perplexity of 'What acceptable audit canst thou leave?' is 1.6796678544621537
+Perplexity of '  Thy unused beauty must be tombed with thee,' is 2.1527375578292065
+Perplexity of '  Which, used, lives th' executor to be.' is 1.7587184843076258
+Perplexity of 'V' is 61.00000000000001
+Perplexity of 'Those hours, that with gentle work did frame' is 1.9599595882464842
+Perplexity of 'The lovely gaze where every eye doth dwell,' is 1.760895640779063
+Perplexity of 'Will play the tyrants to the very same' is 1.907691032107642
+Perplexity of 'And that unfair which fairly doth excel;' is 1.849529470760745
+Perplexity of 'For never-resting time leads summer on' is 1.8100941998995368
+Perplexity of 'To hideous winter, and confounds him there;' is 1.9180033218037962
+Perplexity of 'Sap checked with frost, and lusty leaves quite gone,' is 1.7749417613717082
+Perplexity of 'Beauty o'er-snowed and bareness every where:' is 1.8518686906586246
+Perplexity of 'Then were not summer's distillation left,' is 1.9234532765110104
+Perplexity of 'A liquid prisoner pent in walls of glass,' is 1.9076560008575727
+Perplexity of 'Beauty's effect with beauty were bereft,' is 1.9358613225911057
+Perplexity of 'Nor it, nor no remembrance what it was:' is 2.1610247911354623
+Perplexity of '  But flowers distill'd, though they with winter meet,' is 2.001922277622887
+Perplexity of '  Leese but their show; their substance still lives sweet.' is 2.0364685190839538
+Perplexity of 'VI' is 6.164414002968976
+Perplexity of 'Then let not winter's ragged hand deface,' is 1.9185135424317592
+Perplexity of 'In thee thy summer, ere thou be distill'd:' is 2.1009863961127175
+Perplexity of 'Make sweet some vial; treasure thou some place' is 1.8874312202321577
+Perplexity of 'With beauty's treasure ere it be self-kill'd.' is 2.077380902344743
+Perplexity of 'That use is not forbidden usury,' is 2.1759298222745276
+Perplexity of 'Which happies those that pay the willing loan;' is 2.1561405151125816
+Perplexity of 'That's for thy self to breed another thee,' is 2.4912481201323433
+Perplexity of 'Or ten times happier, be it ten for one;' is 2.5255524490149863
+Perplexity of 'Ten times thy self were happier than thou art,' is 2.1984808778533464
+Perplexity of 'If ten of thine ten times refigur'd thee:' is 2.335475616229744
+Perplexity of 'Then what could death do if thou shouldst depart,' is 2.3088732497599485
+Perplexity of 'Leaving thee living in posterity?' is 2.112372986628528
+Perplexity of '  Be not self-will'd, for thou art much too fair' is 1.82174381820712
+Perplexity of '  To be death's conquest and make worms thine heir.' is 2.095005712695374
+Perplexity of 'VII' is 3.118698412450697
+Perplexity of 'Lo! in the orient when the gracious light' is 2.084018976719989
+Perplexity of 'Lifts up his burning head, each under eye' is 2.0287570636893753
+Perplexity of 'Doth homage to his new-appearing sight,' is 2.0466213698257523
+Perplexity of 'Serving with looks his sacred majesty; ' is 2.0634849902955934
+Perplexity of 'And having climb'd the steep-up heavenly hill,' is 2.018554711549834
+Perplexity of 'Resembling strong youth in his middle age,' is 2.043644262023752
+Perplexity of 'Yet mortal looks adore his beauty still,' is 2.175180237180174
+Perplexity of 'Attending on his golden pilgrimage:' is 2.0709161257357676
+Perplexity of 'But when from highmost pitch, with weary car,' is 2.266294225410949
+Perplexity of 'Like feeble age, he reeleth from the day,' is 2.3541736595294185
+Perplexity of 'The eyes, 'fore duteous, now converted are' is 2.1578705290197218
+Perplexity of 'From his low tract, and look another way:' is 2.40247638582441
+Perplexity of '  So thou, thyself outgoing in thy noon:' is 2.0792337297262664
+Perplexity of '  Unlook'd, on diest unless thou get a son.' is 2.2932899238480347
+Perplexity of 'VIII' is 2.2688796950242867
+Perplexity of 'Music to hear, why hear'st thou music sadly?' is 2.149568827102379
+Perplexity of 'Sweets with sweets war not, joy delights in joy:' is 2.0972155537268176
+Perplexity of 'Why lov'st thou that which thou receiv'st not gladly,' is 2.2049729110096496
+Perplexity of 'Or else receiv'st with pleasure thine annoy?' is 2.032860735034116
+Perplexity of 'If the true concord of well-tuned sounds,' is 2.1095684791256644
+Perplexity of 'By unions married, do offend thine ear,' is 2.2962737128879374
+Perplexity of 'They do but sweetly chide thee, who confounds' is 2.224981934928835
+Perplexity of 'In singleness the parts that thou shouldst bear. ' is 2.330481094599481
+Perplexity of 'Mark how one string, sweet husband to another,' is 2.1954204320766553
+Perplexity of 'Strikes each in each by mutual ordering;' is 2.2710304420122696
+Perplexity of 'Resembling sire and child and happy mother,' is 2.0344980571467817
+Perplexity of 'Who, all in one, one pleasing note do sing:' is 2.649471757229458
+Perplexity of '  Whose speechless song being many, seeming one,' is 2.171059581750635
+Perplexity of '  Sings this to thee: 'Thou single wilt prove none.'' is 2.448302496122156
+Perplexity of 'IX' is 10.435516278555651
+Perplexity of 'Is it for fear to wet a widow's eye,' is 2.6458005628951278
+Perplexity of 'That thou consum'st thy self in single life?' is 2.0893718692933003
+Perplexity of 'Ah! if thou issueless shalt hap to die,' is 2.112864163486759
+Perplexity of 'The world will wail thee like a makeless wife;' is 2.50267479235282
+Perplexity of 'The world will be thy widow and still weep' is 2.573161170709492
+Perplexity of 'That thou no form of thee hast left behind,' is 2.4879939580229693
+Perplexity of 'When every private widow well may keep' is 2.1475473270612495
+Perplexity of 'By children's eyes, her husband's shape in mind:' is 2.2475782646057363
+Perplexity of 'Look! what an unthrift in the world doth spend' is 2.223005340892981
+Perplexity of 'Shifts but his place, for still the world enjoys it;' is 2.137177995088347
+Perplexity of 'But beauty's waste hath in the world an end,' is 2.4458012726578477
+Perplexity of 'And kept unused the user so destroys it.' is 2.5153848830819676
+Perplexity of '  No love toward others in that bosom sits' is 2.4134748716567147
+Perplexity of '  That on himself such murd'rous shame commits.' is 2.0963712184721213
+Perplexity of 'X' is 136.00000000000006
+Perplexity of 'For shame! deny that thou bear'st love to any,' is 2.35213368110184
+Perplexity of 'Who for thy self art so unprovident.' is 2.3122317062552926
+Perplexity of 'Grant, if thou wilt, thou art belov'd of many,' is 2.3100161751210115
+Perplexity of 'But that thou none lov'st is most evident:' is 2.678569705039453
+Perplexity of 'For thou art so possess'd with murderous hate,' is 2.174124656909618
+Perplexity of 'That 'gainst thy self thou stick'st not to conspire,' is 2.0550619002912063
+Perplexity of 'Seeking that beauteous roof to ruinate' is 2.0300417473998786
+Perplexity of 'Which to repair should be thy chief desire.' is 2.2544630161713575
+Perplexity of 'O! change thy thought, that I may change my mind:' is 2.3435203390920636
+Perplexity of 'Shall hate be fairer lodg'd than gentle love?' is 2.734912552021434
+Perplexity of 'Be, as thy presence is, gracious and kind,' is 2.424202765462761
+Perplexity of 'Or to thyself at least kind-hearted prove:' is 2.6242523341909103
+Perplexity of '  Make thee another self for love of me,' is 2.637906480588399
+Perplexity of '  That beauty still may live in thine or thee.' is 2.3343392307810964
+Perplexity of 'XI' is 8.689073598491383
+Perplexity of 'As fast as thou shalt wane, so fast thou grow'st,' is 2.434333037801976
+Perplexity of 'In one of thine, from that which thou departest;' is 2.439310670381231
+Perplexity of 'And that fresh blood which youngly thou bestow'st,' is 2.4199870428157984
+Perplexity of 'Thou mayst call thine when thou from youth convertest,' is 2.2714368807488947
+Perplexity of 'Herein lives wisdom, beauty, and increase;' is 2.373997905402945
+Perplexity of 'Without this folly, age, and cold decay:' is 2.7739124244538838
+Perplexity of 'If all were minded so, the times should cease' is 2.632221332997085
+Perplexity of 'And threescore year would make the world away.' is 2.349385274986506
+Perplexity of 'Let those whom nature hath not made for store,' is 3.0256835176571664
+Perplexity of 'Harsh, featureless, and rude, barrenly perish:' is 2.1728058466326314
+Perplexity of 'Look, whom she best endow'd, she gave thee more;' is 2.8838684565860886
+Perplexity of 'Which bounteous gift thou shouldst in bounty cherish:' is 2.4104271437659417
+Perplexity of '  She carv'd thee for her seal, and meant thereby,' is 2.5500940797276983
+Perplexity of '  Thou shouldst print more, not let that copy die.' is 2.6586399507269634
+Perplexity of 'XII' is 3.810619724382096
+Perplexity of 'When I do count the clock that tells the time,' is 2.518396855393879
+Perplexity of 'And see the brave day sunk in hideous night;' is 2.6197641797549185
+Perplexity of 'When I behold the violet past prime,' is 2.552990626993154
+Perplexity of 'And sable curls, all silvered o'er with white; ' is 2.621007529456465
+Perplexity of 'When lofty trees I see barren of leaves,' is 2.9519178973932263
+Perplexity of 'Which erst from heat did canopy the herd,' is 3.1550137914351075
+Perplexity of 'And summer's green all girded up in sheaves,' is 2.5384252225670356
+Perplexity of 'Borne on the bier with white and bristly beard,' is 2.822120356554874
+Perplexity of 'Then of thy beauty do I question make,' is 2.255427352679207
+Perplexity of 'That thou among the wastes of time must go,' is 2.7138755259300686
+Perplexity of 'Since sweets and beauties do themselves forsake' is 2.601068032520825
+Perplexity of 'And die as fast as they see others grow;' is 3.0392826957441597
+Perplexity of '  And nothing 'gainst Time's scythe can make defence' is 2.4436665389860655
+Perplexity of '  Save breed, to brave him when he takes thee hence.' is 3.217863217039926
+Perplexity of 'XIII' is 2.593609844123988
+Perplexity of 'O! that you were your self; but, love you are' is 2.5350596012639253
+Perplexity of 'No longer yours, than you your self here live:' is 2.703684434777345
+Perplexity of 'Against this coming end you should prepare,' is 2.668635304066653
+Perplexity of 'And your sweet semblance to some other give:' is 2.415341639307748
+Perplexity of 'So should that beauty which you hold in lease' is 2.506795717120506
+Perplexity of 'Find no determination; then you were' is 2.941934933224018
+Perplexity of 'Yourself again, after yourself's decease,' is 2.2532106688278883
+Perplexity of 'When your sweet issue your sweet form should bear. ' is 2.135626910158505
+Perplexity of 'Who lets so fair a house fall to decay,' is 3.2196358765877724
+Perplexity of 'Which husbandry in honour might uphold,' is 2.0530124245139603
+Perplexity of 'Against the stormy gusts of winter's day' is 2.380110157712534
+Perplexity of 'And barren rage of death's eternal cold?' is 2.4286875024467234
+Perplexity of '  O! none but unthrifts. Dear my love, you know,' is 2.4231453479184935
+Perplexity of '  You had a father: let your son say so.' is 3.376565881435962
+Perplexity of 'XIV' is 4.899319633426411
+Perplexity of 'Not from the stars do I my judgement pluck;' is 2.269485365327202
+Perplexity of 'And yet methinks I have astronomy,' is 2.6764215864454997
+Perplexity of 'But not to tell of good or evil luck,' is 2.8516862212582583
+Perplexity of 'Of plagues, of dearths, or seasons' quality;' is 2.6065278910824223
+Perplexity of 'Nor can I fortune to brief minutes tell,' is 2.795127580519135
+Perplexity of 'Pointing to each his thunder, rain and wind,' is 3.069651983437786
+Perplexity of 'Or say with princes if it shall go well' is 3.1203208845074495
+Perplexity of 'By oft predict that I in heaven find:' is 2.777728082802938
+Perplexity of 'But from thine eyes my knowledge I derive,' is 2.5667768772201742
+Perplexity of 'And constant stars in them I read such art' is 2.861007724618792
+Perplexity of 'As 'Truth and beauty shall together thrive,' is 2.786718947674582
+Perplexity of 'If from thyself, to store thou wouldst convert'; ' is 2.344884605369392
+Perplexity of '  Or else of thee this I prognosticate:' is 2.438908906139029
+Perplexity of '  'Thy end is truth's and beauty's doom and date.'' is 2.6937056877653642
+Perplexity of 'XV' is 13.26021618727739
+Perplexity of 'When I consider every thing that grows' is 2.724903550051336
+Perplexity of 'Holds in perfection but a little moment,' is 2.6755140041266756
+Perplexity of 'That this huge stage presenteth nought but shows' is 3.152278810343045
+Perplexity of 'Whereon the stars in secret influence comment;' is 2.673653639905436
+Perplexity of 'When I perceive that men as plants increase,' is 2.630150585745272
+Perplexity of 'Cheered and checked even by the self-same sky,' is 2.820570782072058
+Perplexity of 'Vaunt in their youthful sap, at height decrease,' is 2.450819841639641
+Perplexity of 'And wear their brave state out of memory;' is 3.0125448748602865
+Perplexity of 'Then the conceit of this inconstant stay' is 3.1345391483787752
+Perplexity of 'Sets you most rich in youth before my sight,' is 3.143587279345651
+Perplexity of 'Where wasteful Time debateth with decay' is 2.436578626599077
+Perplexity of 'To change your day of youth to sullied night,' is 2.732996922623376
+Perplexity of '  And all in war with Time for love of you,' is 2.779448784037446
+Perplexity of '  As he takes from you, I engraft you new.' is 2.7272140329887185
+Total lines: 225
+Average Perplexity: 3.219813281843606
+
+Model Class: NgramModel
+File Name: test_data/shakespeare_sonnets.txt
+C: 4
+K: 0
+Perplexity of 'I' is 1.0
+Perplexity of 'From fairest creatures we desire increase,' is 1.0507566386532194
+Perplexity of 'That thereby beauty's rose might never die,' is 1.0258782992444833
+Perplexity of 'But as the riper should by time decease,' is 1.0717734625362931
+Perplexity of 'His tender heir might bear his memory:' is 1.0820258378258716
+Perplexity of 'But thou contracted to thine own bright eyes,' is 1.0828903909681606
+Perplexity of 'Feed'st thy light's flame with self-substantial fuel,' is 1.0871942738463038
+Perplexity of 'Making a famine where abundance lies,' is 1.0981956753527815
+Perplexity of 'Thy self thy foe, to thy sweet self too cruel:' is 1.2074401087670623
+Perplexity of 'Thou that art now the world's fresh ornament,' is 1.1295191103397213
+Perplexity of 'And only herald to the gaudy spring,' is 1.1452619484026632
+Perplexity of 'Within thine own bud buriest thy content,' is 1.2319741213145359
+Perplexity of 'And tender churl mak'st waste in niggarding:' is 1.1113264908265628
+Perplexity of '  Pity the world, or else this glutton be,' is 1.1546711540930201
+Perplexity of '  To eat the world's due, by the grave and thee.' is 1.264091056687568
+Perplexity of 'II' is 2.82842712474619
+Perplexity of 'When forty winters shall besiege thy brow,' is 1.130071511423969
+Perplexity of 'And dig deep trenches in thy beauty's field,' is 1.2066593644390018
+Perplexity of 'Thy youth's proud livery so gazed on now,' is 1.111407958299688
+Perplexity of 'Will be a tatter'd weed of small worth held: ' is 1.1544086040283374
+Perplexity of 'Then being asked, where all thy beauty lies,' is 1.2739503309602975
+Perplexity of 'Where all the treasure of thy lusty days; ' is 1.3157971220855158
+Perplexity of 'To say, within thine own deep sunken eyes,' is 1.2106423742319692
+Perplexity of 'Were an all-eating shame, and thriftless praise.' is 1.2300755055779713
+Perplexity of 'How much more praise deserv'd thy beauty's use,' is 1.2063533883022977
+Perplexity of 'If thou couldst answer 'This fair child of mine' is 1.2194947589789613
+Perplexity of 'Shall sum my count, and make my old excuse,'' is 1.2401330892049764
+Perplexity of 'Proving his beauty by succession thine!' is 1.3360077814978468
+Perplexity of '  This were to be new made when thou art old,' is 1.4250088657973492
+Perplexity of '  And see thy blood warm when thou feel'st it cold.' is 1.2824779359987462
+Perplexity of 'III' is 2.2653274480417465
+Perplexity of 'Look in thy glass and tell the face thou viewest' is 1.3691732320843648
+Perplexity of 'Now is the time that face should form another;' is 1.3314050448100458
+Perplexity of 'Whose fresh repair if now thou not renewest,' is 1.2172549519067284
+Perplexity of 'Thou dost beguile the world, unbless some mother.' is 1.2755724731403977
+Perplexity of 'For where is she so fair whose unear'd womb' is 1.3708638730641791
+Perplexity of 'Disdains the tillage of thy husbandry?' is 1.288819134190552
+Perplexity of 'Or who is he so fond will be the tomb,' is 1.4087411775100704
+Perplexity of 'Of his self-love to stop posterity? ' is 1.303780982306392
+Perplexity of 'Thou art thy mother's glass and she in thee' is 1.5309683452957328
+Perplexity of 'Calls back the lovely April of her prime;' is 1.2601940089293728
+Perplexity of 'So thou through windows of thine age shalt see,' is 1.446133898998719
+Perplexity of 'Despite of wrinkles this thy golden time.' is 1.5274060179629896
+Perplexity of '  But if thou live, remember'd not to be,' is 1.3848451946499207
+Perplexity of '  Die single and thine image dies with thee.' is 1.3866211371286934
+Perplexity of 'IV' is 6.066300355241241
+Perplexity of 'Unthrifty loveliness, why dost thou spend' is 1.322452873266347
+Perplexity of 'Upon thy self thy beauty's legacy?' is 1.4342922176162847
+Perplexity of 'Nature's bequest gives nothing, but doth lend,' is 1.2527505117487203
+Perplexity of 'And being frank she lends to those are free:' is 1.3901119787175804
+Perplexity of 'Then, beauteous niggard, why dost thou abuse' is 1.309059118071521
+Perplexity of 'The bounteous largess given thee to give?' is 1.4843282709035825
+Perplexity of 'Profitless usurer, why dost thou use' is 1.3519318199524157
+Perplexity of 'So great a sum of sums, yet canst not live?' is 1.3695630627739939
+Perplexity of 'For having traffic with thy self alone,' is 1.3258273195961796
+Perplexity of 'Thou of thy self thy sweet self dost deceive:' is 1.4561677974688385
+Perplexity of 'Then how when nature calls thee to be gone,' is 1.45293120686021
+Perplexity of 'What acceptable audit canst thou leave?' is 1.3421769536254549
+Perplexity of '  Thy unused beauty must be tombed with thee,' is 1.4586878936520216
+Perplexity of '  Which, used, lives th' executor to be.' is 1.366896815146268
+Perplexity of 'V' is 61.00000000000001
+Perplexity of 'Those hours, that with gentle work did frame' is 1.3023257893856264
+Perplexity of 'The lovely gaze where every eye doth dwell,' is 1.3371718273918676
+Perplexity of 'Will play the tyrants to the very same' is 1.4352965003374867
+Perplexity of 'And that unfair which fairly doth excel;' is 1.4748086545047752
+Perplexity of 'For never-resting time leads summer on' is 1.3744561019196238
+Perplexity of 'To hideous winter, and confounds him there;' is 1.479057895112439
+Perplexity of 'Sap checked with frost, and lusty leaves quite gone,' is 1.2922609768717759
+Perplexity of 'Beauty o'er-snowed and bareness every where:' is 1.4698254876564445
+Perplexity of 'Then were not summer's distillation left,' is 1.3786972129174249
+Perplexity of 'A liquid prisoner pent in walls of glass,' is 1.3321389694185388
+Perplexity of 'Beauty's effect with beauty were bereft,' is 1.399845792698778
+Perplexity of 'Nor it, nor no remembrance what it was:' is 1.328855366483202
+Perplexity of '  But flowers distill'd, though they with winter meet,' is 1.4100752390454063
+Perplexity of '  Leese but their show; their substance still lives sweet.' is 1.4968318936931433
+Perplexity of 'VI' is 6.164414002968976
+Perplexity of 'Then let not winter's ragged hand deface,' is 1.5217620719553209
+Perplexity of 'In thee thy summer, ere thou be distill'd:' is 1.8982529635149115
+Perplexity of 'Make sweet some vial; treasure thou some place' is 1.4248669978485602
+Perplexity of 'With beauty's treasure ere it be self-kill'd.' is 1.6033995947699102
+Perplexity of 'That use is not forbidden usury,' is 1.4870058367247034
+Perplexity of 'Which happies those that pay the willing loan;' is 1.645486466211223
+Perplexity of 'That's for thy self to breed another thee,' is 1.7064022185197094
+Perplexity of 'Or ten times happier, be it ten for one;' is 1.551810661048354
+Perplexity of 'Ten times thy self were happier than thou art,' is 1.667509110243387
+Perplexity of 'If ten of thine ten times refigur'd thee:' is 1.6515530978357376
+Perplexity of 'Then what could death do if thou shouldst depart,' is 1.4710613205913015
+Perplexity of 'Leaving thee living in posterity?' is 1.6581307327652626
+Perplexity of '  Be not self-will'd, for thou art much too fair' is 1.502192198220692
+Perplexity of '  To be death's conquest and make worms thine heir.' is 1.6119988866623696
+Perplexity of 'VII' is 3.118698412450697
+Perplexity of 'Lo! in the orient when the gracious light' is 1.5864383386399694
+Perplexity of 'Lifts up his burning head, each under eye' is 1.3014200241175635
+Perplexity of 'Doth homage to his new-appearing sight,' is 1.6988346150443216
+Perplexity of 'Serving with looks his sacred majesty; ' is 1.4585297988021337
+Perplexity of 'And having climb'd the steep-up heavenly hill,' is 1.4595588617335162
+Perplexity of 'Resembling strong youth in his middle age,' is 1.4037774438117194
+Perplexity of 'Yet mortal looks adore his beauty still,' is 1.4190143693921242
+Perplexity of 'Attending on his golden pilgrimage:' is 1.5182607017098322
+Perplexity of 'But when from highmost pitch, with weary car,' is 1.3948964994101216
+Perplexity of 'Like feeble age, he reeleth from the day,' is 1.3915024641341427
+Perplexity of 'The eyes, 'fore duteous, now converted are' is 1.3588297079660434
+Perplexity of 'From his low tract, and look another way:' is 1.5274491351794623
+Perplexity of '  So thou, thyself outgoing in thy noon:' is 1.7596892470971972
+Perplexity of '  Unlook'd, on diest unless thou get a son.' is 1.5852972052807686
+Perplexity of 'VIII' is 2.2688796950242867
+Perplexity of 'Music to hear, why hear'st thou music sadly?' is 1.5958410513468164
+Perplexity of 'Sweets with sweets war not, joy delights in joy:' is 1.5266357872284584
+Perplexity of 'Why lov'st thou that which thou receiv'st not gladly,' is 1.7308315975196484
+Perplexity of 'Or else receiv'st with pleasure thine annoy?' is 1.532351549043449
+Perplexity of 'If the true concord of well-tuned sounds,' is 1.4884586099883492
+Perplexity of 'By unions married, do offend thine ear,' is 1.3525890949162216
+Perplexity of 'They do but sweetly chide thee, who confounds' is 1.5800614850292731
+Perplexity of 'In singleness the parts that thou shouldst bear. ' is 1.707872898927399
+Perplexity of 'Mark how one string, sweet husband to another,' is 1.5392564297016122
+Perplexity of 'Strikes each in each by mutual ordering;' is 1.377625201920506
+Perplexity of 'Resembling sire and child and happy mother,' is 1.5917855437128845
+Perplexity of 'Who, all in one, one pleasing note do sing:' is 1.7629877307459947
+Perplexity of '  Whose speechless song being many, seeming one,' is 1.4852461453275503
+Perplexity of '  Sings this to thee: 'Thou single wilt prove none.'' is 1.6589331765731246
+Perplexity of 'IX' is 10.435516278555651
+Perplexity of 'Is it for fear to wet a widow's eye,' is 1.5249922932862157
+Perplexity of 'That thou consum'st thy self in single life?' is 1.6557154377477348
+Perplexity of 'Ah! if thou issueless shalt hap to die,' is 1.6273016796237294
+Perplexity of 'The world will wail thee like a makeless wife;' is 1.617401973963601
+Perplexity of 'The world will be thy widow and still weep' is 1.7526966825323185
+Perplexity of 'That thou no form of thee hast left behind,' is 1.6600037946415853
+Perplexity of 'When every private widow well may keep' is 1.5323612119234462
+Perplexity of 'By children's eyes, her husband's shape in mind:' is 1.4745970613073345
+Perplexity of 'Look! what an unthrift in the world doth spend' is 1.5730736893806077
+Perplexity of 'Shifts but his place, for still the world enjoys it;' is 1.5273489027096694
+Perplexity of 'But beauty's waste hath in the world an end,' is 1.6118998823358857
+Perplexity of 'And kept unused the user so destroys it.' is 1.6035161569226275
+Perplexity of '  No love toward others in that bosom sits' is 1.5777143053526632
+Perplexity of '  That on himself such murd'rous shame commits.' is 1.5503735857899783
+Perplexity of 'X' is 136.00000000000006
+Perplexity of 'For shame! deny that thou bear'st love to any,' is 1.7690317737136805
+Perplexity of 'Who for thy self art so unprovident.' is 1.6172239093730525
+Perplexity of 'Grant, if thou wilt, thou art belov'd of many,' is 1.6786952077311714
+Perplexity of 'But that thou none lov'st is most evident:' is 1.7747950301199875
+Perplexity of 'For thou art so possess'd with murderous hate,' is 1.610136485531474
+Perplexity of 'That 'gainst thy self thou stick'st not to conspire,' is 1.6718471415133374
+Perplexity of 'Seeking that beauteous roof to ruinate' is 1.8066960517643333
+Perplexity of 'Which to repair should be thy chief desire.' is 1.7790565057450882
+Perplexity of 'O! change thy thought, that I may change my mind:' is 1.652162211223047
+Perplexity of 'Shall hate be fairer lodg'd than gentle love?' is 1.6146195620810446
+Perplexity of 'Be, as thy presence is, gracious and kind,' is 1.6067254654094356
+Perplexity of 'Or to thyself at least kind-hearted prove:' is 1.7010626303657055
+Perplexity of '  Make thee another self for love of me,' is 2.0583225161677516
+Perplexity of '  That beauty still may live in thine or thee.' is 1.8604452249570154
+Perplexity of 'XI' is 8.689073598491383
+Perplexity of 'As fast as thou shalt wane, so fast thou grow'st,' is 1.7090641551056756
+Perplexity of 'In one of thine, from that which thou departest;' is 1.8585887756475261
+Perplexity of 'And that fresh blood which youngly thou bestow'st,' is 1.5041388997925118
+Perplexity of 'Thou mayst call thine when thou from youth convertest,' is 1.7643207001786825
+Perplexity of 'Herein lives wisdom, beauty, and increase;' is 1.5492642564344827
+Perplexity of 'Without this folly, age, and cold decay:' is 1.9091709471786464
+Perplexity of 'If all were minded so, the times should cease' is 1.777901044736167
+Perplexity of 'And threescore year would make the world away.' is 1.527038830063522
+Perplexity of 'Let those whom nature hath not made for store,' is 1.7494404948803042
+Perplexity of 'Harsh, featureless, and rude, barrenly perish:' is 1.4048625969683244
+Perplexity of 'Look, whom she best endow'd, she gave thee more;' is 1.9061620624157003
+Perplexity of 'Which bounteous gift thou shouldst in bounty cherish:' is 1.5949651440223578
+Perplexity of '  She carv'd thee for her seal, and meant thereby,' is 1.8154812814572454
+Perplexity of '  Thou shouldst print more, not let that copy die.' is 1.7647986699657519
+Perplexity of 'XII' is 3.810619724382096
+Perplexity of 'When I do count the clock that tells the time,' is 1.9416503526350326
+Perplexity of 'And see the brave day sunk in hideous night;' is 1.7840284103353925
+Perplexity of 'When I behold the violet past prime,' is 1.7586622399107674
+Perplexity of 'And sable curls, all silvered o'er with white; ' is 1.453439314376272
+Perplexity of 'When lofty trees I see barren of leaves,' is 1.5462025139027975
+Perplexity of 'Which erst from heat did canopy the herd,' is 1.6603595189426836
+Perplexity of 'And summer's green all girded up in sheaves,' is 1.5282670927469684
+Perplexity of 'Borne on the bier with white and bristly beard,' is 1.8454797044477704
+Perplexity of 'Then of thy beauty do I question make,' is 1.7536996238290896
+Perplexity of 'That thou among the wastes of time must go,' is 1.7795424938259279
+Perplexity of 'Since sweets and beauties do themselves forsake' is 1.8752865186237802
+Perplexity of 'And die as fast as they see others grow;' is 1.9003944209149322
+Perplexity of '  And nothing 'gainst Time's scythe can make defence' is 1.7823129384901515
+Perplexity of '  Save breed, to brave him when he takes thee hence.' is 1.8149690731012722
+Perplexity of 'XIII' is 2.593609844123988
+Perplexity of 'O! that you were your self; but, love you are' is 1.8778676144961974
+Perplexity of 'No longer yours, than you your self here live:' is 1.814869607361336
+Perplexity of 'Against this coming end you should prepare,' is 1.9592065081155965
+Perplexity of 'And your sweet semblance to some other give:' is 1.7168859999417165
+Perplexity of 'So should that beauty which you hold in lease' is 1.9883673166280345
+Perplexity of 'Find no determination; then you were' is 1.7118262792772887
+Perplexity of 'Yourself again, after yourself's decease,' is 1.5921116875867662
+Perplexity of 'When your sweet issue your sweet form should bear. ' is 1.5998427962913992
+Perplexity of 'Who lets so fair a house fall to decay,' is 1.873522899584513
+Perplexity of 'Which husbandry in honour might uphold,' is 1.5159433898856396
+Perplexity of 'Against the stormy gusts of winter's day' is 1.6707920412670076
+Perplexity of 'And barren rage of death's eternal cold?' is 1.5306052570991395
+Perplexity of '  O! none but unthrifts. Dear my love, you know,' is 1.5750273015349816
+Perplexity of '  You had a father: let your son say so.' is 1.5687478927129073
+Perplexity of 'XIV' is 4.899319633426411
+Perplexity of 'Not from the stars do I my judgement pluck;' is 1.5882835560729163
+Perplexity of 'And yet methinks I have astronomy,' is 1.5758702167540213
+Perplexity of 'But not to tell of good or evil luck,' is 1.6671718090935428
+Perplexity of 'Of plagues, of dearths, or seasons' quality;' is 1.5219200030825628
+Perplexity of 'Nor can I fortune to brief minutes tell,' is 1.8124165225711988
+Perplexity of 'Pointing to each his thunder, rain and wind,' is 2.0079397996354444
+Perplexity of 'Or say with princes if it shall go well' is 1.7546278807290747
+Perplexity of 'By oft predict that I in heaven find:' is 1.8415138531845048
+Perplexity of 'But from thine eyes my knowledge I derive,' is 1.5191695264496947
+Perplexity of 'And constant stars in them I read such art' is 1.5908668704561044
+Perplexity of 'As 'Truth and beauty shall together thrive,' is 1.7373546405989169
+Perplexity of 'If from thyself, to store thou wouldst convert'; ' is 1.9780457752367049
+Perplexity of '  Or else of thee this I prognosticate:' is 1.753622928054702
+Perplexity of '  'Thy end is truth's and beauty's doom and date.'' is 1.8206574243614544
+Perplexity of 'XV' is 13.26021618727739
+Perplexity of 'When I consider every thing that grows' is 1.974084906263256
+Perplexity of 'Holds in perfection but a little moment,' is 1.636156478960554
+Perplexity of 'That this huge stage presenteth nought but shows' is 1.8129694981278415
+Perplexity of 'Whereon the stars in secret influence comment;' is 1.6606067303046228
+Perplexity of 'When I perceive that men as plants increase,' is 1.7943714263990393
+Perplexity of 'Cheered and checked even by the self-same sky,' is 1.7473522708030007
+Perplexity of 'Vaunt in their youthful sap, at height decrease,' is 1.6341509343056777
+Perplexity of 'And wear their brave state out of memory;' is 1.9176025999717679
+Perplexity of 'Then the conceit of this inconstant stay' is 1.9896386159072639
+Perplexity of 'Sets you most rich in youth before my sight,' is 1.957770552996601
+Perplexity of 'Where wasteful Time debateth with decay' is 1.7277681213239942
+Perplexity of 'To change your day of youth to sullied night,' is 1.7746451490401505
+Perplexity of '  And all in war with Time for love of you,' is 2.0249936835955773
+Perplexity of '  As he takes from you, I engraft you new.' is 1.6522690926145933
+Total lines: 225
+Average Perplexity: 2.6170251878278314
+
+Model Class: NgramModel
+File Name: test_data/shakespeare_sonnets.txt
+C: 7
+K: 0
+Perplexity of 'I' is 1.0
+Perplexity of 'From fairest creatures we desire increase,' is 1.0166404393919355
+Perplexity of 'That thereby beauty's rose might never die,' is 1.0258782992444833
+Perplexity of 'But as the riper should by time decease,' is 1.0352649238413776
+Perplexity of 'His tender heir might bear his memory:' is 1.0624678308940412
+Perplexity of 'But thou contracted to thine own bright eyes,' is 1.0406201953489853
+Perplexity of 'Feed'st thy light's flame with self-substantial fuel,' is 1.0373976169871195
+Perplexity of 'Making a famine where abundance lies,' is 1.05781041208069
+Perplexity of 'Thy self thy foe, to thy sweet self too cruel:' is 1.0810173469046067
+Perplexity of 'Thou that art now the world's fresh ornament,' is 1.052500285277733
+Perplexity of 'And only herald to the gaudy spring,' is 1.0896562618130836
+Perplexity of 'Within thine own bud buriest thy content,' is 1.0990207289069782
+Perplexity of 'And tender churl mak'st waste in niggarding:' is 1.076858115046113
+Perplexity of '  Pity the world, or else this glutton be,' is 1.08257038830969
+Perplexity of '  To eat the world's due, by the grave and thee.' is 1.0825349519371243
+Perplexity of 'II' is 2.82842712474619
+Perplexity of 'When forty winters shall besiege thy brow,' is 1.0697847505993925
+Perplexity of 'And dig deep trenches in thy beauty's field,' is 1.0848520434800557
+Perplexity of 'Thy youth's proud livery so gazed on now,' is 1.0744571796184579
+Perplexity of 'Will be a tatter'd weed of small worth held: ' is 1.0688377341167095
+Perplexity of 'Then being asked, where all thy beauty lies,' is 1.11618374658662
+Perplexity of 'Where all the treasure of thy lusty days; ' is 1.0942834365228977
+Perplexity of 'To say, within thine own deep sunken eyes,' is 1.10606874726216
+Perplexity of 'Were an all-eating shame, and thriftless praise.' is 1.083991455992421
+Perplexity of 'How much more praise deserv'd thy beauty's use,' is 1.1193298485718235
+Perplexity of 'If thou couldst answer 'This fair child of mine' is 1.0783607867667024
+Perplexity of 'Shall sum my count, and make my old excuse,'' is 1.0777821698876244
+Perplexity of 'Proving his beauty by succession thine!' is 1.1675158960518435
+Perplexity of '  This were to be new made when thou art old,' is 1.0776996288415555
+Perplexity of '  And see thy blood warm when thou feel'st it cold.' is 1.0984195644815347
+Perplexity of 'III' is 2.2653274480417465
+Perplexity of 'Look in thy glass and tell the face thou viewest' is 1.1063695328888332
+Perplexity of 'Now is the time that face should form another;' is 1.0953560288385964
+Perplexity of 'Whose fresh repair if now thou not renewest,' is 1.1181228443937636
+Perplexity of 'Thou dost beguile the world, unbless some mother.' is 1.1061105416625088
+Perplexity of 'For where is she so fair whose unear'd womb' is 1.115036090694172
+Perplexity of 'Disdains the tillage of thy husbandry?' is 1.140544278957924
+Perplexity of 'Or who is he so fond will be the tomb,' is 1.141344989277948
+Perplexity of 'Of his self-love to stop posterity? ' is 1.1071239328801132
+Perplexity of 'Thou art thy mother's glass and she in thee' is 1.1435609106316655
+Perplexity of 'Calls back the lovely April of her prime;' is 1.0948035365072957
+Perplexity of 'So thou through windows of thine age shalt see,' is 1.1151852227789214
+Perplexity of 'Despite of wrinkles this thy golden time.' is 1.0960760646687597
+Perplexity of '  But if thou live, remember'd not to be,' is 1.1153891270949527
+Perplexity of '  Die single and thine image dies with thee.' is 1.1595843849314453
+Perplexity of 'IV' is 6.066300355241241
+Perplexity of 'Unthrifty loveliness, why dost thou spend' is 1.1171849321697744
+Perplexity of 'Upon thy self thy beauty's legacy?' is 1.2200230930771323
+Perplexity of 'Nature's bequest gives nothing, but doth lend,' is 1.0882868788481064
+Perplexity of 'And being frank she lends to those are free:' is 1.110336318167638
+Perplexity of 'Then, beauteous niggard, why dost thou abuse' is 1.1570050634954825
+Perplexity of 'The bounteous largess given thee to give?' is 1.1011684001185276
+Perplexity of 'Profitless usurer, why dost thou use' is 1.1604339885211834
+Perplexity of 'So great a sum of sums, yet canst not live?' is 1.0972061342089172
+Perplexity of 'For having traffic with thy self alone,' is 1.1603186706260957
+Perplexity of 'Thou of thy self thy sweet self dost deceive:' is 1.2180791546188112
+Perplexity of 'Then how when nature calls thee to be gone,' is 1.134581490202421
+Perplexity of 'What acceptable audit canst thou leave?' is 1.1983283828875027
+Perplexity of '  Thy unused beauty must be tombed with thee,' is 1.1714801062289935
+Perplexity of '  Which, used, lives th' executor to be.' is 1.1077806662212888
+Perplexity of 'V' is 61.00000000000001
+Perplexity of 'Those hours, that with gentle work did frame' is 1.098338418040459
+Perplexity of 'The lovely gaze where every eye doth dwell,' is 1.1557056109398955
+Perplexity of 'Will play the tyrants to the very same' is 1.1571102372827198
+Perplexity of 'And that unfair which fairly doth excel;' is 1.1294020814915282
+Perplexity of 'For never-resting time leads summer on' is 1.1165617216702315
+Perplexity of 'To hideous winter, and confounds him there;' is 1.1206436986631312
+Perplexity of 'Sap checked with frost, and lusty leaves quite gone,' is 1.128775751160039
+Perplexity of 'Beauty o'er-snowed and bareness every where:' is 1.1184938889252658
+Perplexity of 'Then were not summer's distillation left,' is 1.128092173649905
+Perplexity of 'A liquid prisoner pent in walls of glass,' is 1.1095647284411019
+Perplexity of 'Beauty's effect with beauty were bereft,' is 1.2416825050689018
+Perplexity of 'Nor it, nor no remembrance what it was:' is 1.1363084259572962
+Perplexity of '  But flowers distill'd, though they with winter meet,' is 1.1195038992122692
+Perplexity of '  Leese but their show; their substance still lives sweet.' is 1.1300283309703134
+Perplexity of 'VI' is 6.164414002968976
+Perplexity of 'Then let not winter's ragged hand deface,' is 1.149996077261102
+Perplexity of 'In thee thy summer, ere thou be distill'd:' is 1.2347511947270027
+Perplexity of 'Make sweet some vial; treasure thou some place' is 1.1887360293380298
+Perplexity of 'With beauty's treasure ere it be self-kill'd.' is 1.190854097957501
+Perplexity of 'That use is not forbidden usury,' is 1.147202690439877
+Perplexity of 'Which happies those that pay the willing loan;' is 1.1689102591868512
+Perplexity of 'That's for thy self to breed another thee,' is 1.1798023057656664
+Perplexity of 'Or ten times happier, be it ten for one;' is 1.1565342055080288
+Perplexity of 'Ten times thy self were happier than thou art,' is 1.2520825602757797
+Perplexity of 'If ten of thine ten times refigur'd thee:' is 1.2000897580363796
+Perplexity of 'Then what could death do if thou shouldst depart,' is 1.188329833102886
+Perplexity of 'Leaving thee living in posterity?' is 1.1696228345220614
+Perplexity of '  Be not self-will'd, for thou art much too fair' is 1.187332821974068
+Perplexity of '  To be death's conquest and make worms thine heir.' is 1.1502482450180025
+Perplexity of 'VII' is 3.118698412450697
+Perplexity of 'Lo! in the orient when the gracious light' is 1.186366180597068
+Perplexity of 'Lifts up his burning head, each under eye' is 1.1168935405229519
+Perplexity of 'Doth homage to his new-appearing sight,' is 1.1235515983309174
+Perplexity of 'Serving with looks his sacred majesty; ' is 1.1238564998444984
+Perplexity of 'And having climb'd the steep-up heavenly hill,' is 1.1210809767484327
+Perplexity of 'Resembling strong youth in his middle age,' is 1.1150750253573112
+Perplexity of 'Yet mortal looks adore his beauty still,' is 1.2086662679772324
+Perplexity of 'Attending on his golden pilgrimage:' is 1.163105221599449
+Perplexity of 'But when from highmost pitch, with weary car,' is 1.1424141018717417
+Perplexity of 'Like feeble age, he reeleth from the day,' is 1.1191437847521655
+Perplexity of 'The eyes, 'fore duteous, now converted are' is 1.1164102459601397
+Perplexity of 'From his low tract, and look another way:' is 1.1813206573633872
+Perplexity of '  So thou, thyself outgoing in thy noon:' is 1.1951030771863256
+Perplexity of '  Unlook'd, on diest unless thou get a son.' is 1.1143058288954837
+Perplexity of 'VIII' is 2.2688796950242867
+Perplexity of 'Music to hear, why hear'st thou music sadly?' is 1.1766551638450404
+Perplexity of 'Sweets with sweets war not, joy delights in joy:' is 1.1680160965591895
+Perplexity of 'Why lov'st thou that which thou receiv'st not gladly,' is 1.2100026226167886
+Perplexity of 'Or else receiv'st with pleasure thine annoy?' is 1.2738846040995842
+Perplexity of 'If the true concord of well-tuned sounds,' is 1.137139337730202
+Perplexity of 'By unions married, do offend thine ear,' is 1.1940205695759905
+Perplexity of 'They do but sweetly chide thee, who confounds' is 1.1107695491545133
+Perplexity of 'In singleness the parts that thou shouldst bear. ' is 1.2061136594665423
+Perplexity of 'Mark how one string, sweet husband to another,' is 1.1954142562797316
+Perplexity of 'Strikes each in each by mutual ordering;' is 1.1261894373513488
+Perplexity of 'Resembling sire and child and happy mother,' is 1.164645857594631
+Perplexity of 'Who, all in one, one pleasing note do sing:' is 1.1173347412922265
+Perplexity of '  Whose speechless song being many, seeming one,' is 1.146705897477922
+Perplexity of '  Sings this to thee: 'Thou single wilt prove none.'' is 1.1681819216233735
+Perplexity of 'IX' is 10.435516278555651
+Perplexity of 'Is it for fear to wet a widow's eye,' is 1.1397369885906958
+Perplexity of 'That thou consum'st thy self in single life?' is 1.3089433993151787
+Perplexity of 'Ah! if thou issueless shalt hap to die,' is 1.1935308050062514
+Perplexity of 'The world will wail thee like a makeless wife;' is 1.185409111477153
+Perplexity of 'The world will be thy widow and still weep' is 1.1937723930914732
+Perplexity of 'That thou no form of thee hast left behind,' is 1.1808139681309744
+Perplexity of 'When every private widow well may keep' is 1.1910515494437268
+Perplexity of 'By children's eyes, her husband's shape in mind:' is 1.1486351529643184
+Perplexity of 'Look! what an unthrift in the world doth spend' is 1.2057112643375552
+Perplexity of 'Shifts but his place, for still the world enjoys it;' is 1.1924349271798311
+Perplexity of 'But beauty's waste hath in the world an end,' is 1.284561516197987
+Perplexity of 'And kept unused the user so destroys it.' is 1.1497993026608713
+Perplexity of '  No love toward others in that bosom sits' is 1.1613954333544982
+Perplexity of '  That on himself such murd'rous shame commits.' is 1.1100083618315149
+Perplexity of 'X' is 136.00000000000006
+Perplexity of 'For shame! deny that thou bear'st love to any,' is 1.2375133149588509
+Perplexity of 'Who for thy self art so unprovident.' is 1.2286221554080194
+Perplexity of 'Grant, if thou wilt, thou art belov'd of many,' is 1.19973137868202
+Perplexity of 'But that thou none lov'st is most evident:' is 1.2250480067424434
+Perplexity of 'For thou art so possess'd with murderous hate,' is 1.208582076020654
+Perplexity of 'That 'gainst thy self thou stick'st not to conspire,' is 1.2724312289011548
+Perplexity of 'Seeking that beauteous roof to ruinate' is 1.2036075279884284
+Perplexity of 'Which to repair should be thy chief desire.' is 1.2230710474240944
+Perplexity of 'O! change thy thought, that I may change my mind:' is 1.188028604938986
+Perplexity of 'Shall hate be fairer lodg'd than gentle love?' is 1.1344524192249636
+Perplexity of 'Be, as thy presence is, gracious and kind,' is 1.144906904736576
+Perplexity of 'Or to thyself at least kind-hearted prove:' is 1.164146561368382
+Perplexity of '  Make thee another self for love of me,' is 1.1797878161180662
+Perplexity of '  That beauty still may live in thine or thee.' is 1.3342173249949585
+Perplexity of 'XI' is 8.689073598491383
+Perplexity of 'As fast as thou shalt wane, so fast thou grow'st,' is 1.292138813482479
+Perplexity of 'In one of thine, from that which thou departest;' is 1.2324199103042253
+Perplexity of 'And that fresh blood which youngly thou bestow'st,' is 1.2215680471702415
+Perplexity of 'Thou mayst call thine when thou from youth convertest,' is 1.2303638882313863
+Perplexity of 'Herein lives wisdom, beauty, and increase;' is 1.2718459303950167
+Perplexity of 'Without this folly, age, and cold decay:' is 1.1747595685667558
+Perplexity of 'If all were minded so, the times should cease' is 1.2284588421259288
+Perplexity of 'And threescore year would make the world away.' is 1.2204273204684524
+Perplexity of 'Let those whom nature hath not made for store,' is 1.1965207761213836
+Perplexity of 'Harsh, featureless, and rude, barrenly perish:' is 1.116797609219995
+Perplexity of 'Look, whom she best endow'd, she gave thee more;' is 1.1279842120620298
+Perplexity of 'Which bounteous gift thou shouldst in bounty cherish:' is 1.216991397491907
+Perplexity of '  She carv'd thee for her seal, and meant thereby,' is 1.1705211804505242
+Perplexity of '  Thou shouldst print more, not let that copy die.' is 1.1758996979135141
+Perplexity of 'XII' is 3.810619724382096
+Perplexity of 'When I do count the clock that tells the time,' is 1.2051485289619661
+Perplexity of 'And see the brave day sunk in hideous night;' is 1.1778771134606698
+Perplexity of 'When I behold the violet past prime,' is 1.1531498365953081
+Perplexity of 'And sable curls, all silvered o'er with white; ' is 1.1418468971660876
+Perplexity of 'When lofty trees I see barren of leaves,' is 1.177270882009116
+Perplexity of 'Which erst from heat did canopy the herd,' is 1.1531008149827129
+Perplexity of 'And summer's green all girded up in sheaves,' is 1.1602400850072
+Perplexity of 'Borne on the bier with white and bristly beard,' is 1.1494260820658058
+Perplexity of 'Then of thy beauty do I question make,' is 1.2970422024218995
+Perplexity of 'That thou among the wastes of time must go,' is 1.2053941694408974
+Perplexity of 'Since sweets and beauties do themselves forsake' is 1.1669275655386957
+Perplexity of 'And die as fast as they see others grow;' is 1.190458557682045
+Perplexity of '  And nothing 'gainst Time's scythe can make defence' is 1.1347551789350927
+Perplexity of '  Save breed, to brave him when he takes thee hence.' is 1.1655389157860139
+Perplexity of 'XIII' is 2.593609844123988
+Perplexity of 'O! that you were your self; but, love you are' is 1.1225968225078613
+Perplexity of 'No longer yours, than you your self here live:' is 1.1716991378504795
+Perplexity of 'Against this coming end you should prepare,' is 1.2386779563289274
+Perplexity of 'And your sweet semblance to some other give:' is 1.2164592574463382
+Perplexity of 'So should that beauty which you hold in lease' is 1.3539920715232974
+Perplexity of 'Find no determination; then you were' is 1.1563963475514663
+Perplexity of 'Yourself again, after yourself's decease,' is 1.1953465974495479
+Perplexity of 'When your sweet issue your sweet form should bear. ' is 1.2965807512861551
+Perplexity of 'Who lets so fair a house fall to decay,' is 1.1645236082186403
+Perplexity of 'Which husbandry in honour might uphold,' is 1.2194369462742998
+Perplexity of 'Against the stormy gusts of winter's day' is 1.2291596089861212
+Perplexity of 'And barren rage of death's eternal cold?' is 1.2137198755162797
+Perplexity of '  O! none but unthrifts. Dear my love, you know,' is 1.1418329259292115
+Perplexity of '  You had a father: let your son say so.' is 1.1931763773036006
+Perplexity of 'XIV' is 4.899319633426411
+Perplexity of 'Not from the stars do I my judgement pluck;' is 1.209350151972056
+Perplexity of 'And yet methinks I have astronomy,' is 1.1682854721252587
+Perplexity of 'But not to tell of good or evil luck,' is 1.1885742939833277
+Perplexity of 'Of plagues, of dearths, or seasons' quality;' is 1.1458762736386001
+Perplexity of 'Nor can I fortune to brief minutes tell,' is 1.141773348590663
+Perplexity of 'Pointing to each his thunder, rain and wind,' is 1.1282214420333876
+Perplexity of 'Or say with princes if it shall go well' is 1.208711679423094
+Perplexity of 'By oft predict that I in heaven find:' is 1.2347797474014979
+Perplexity of 'But from thine eyes my knowledge I derive,' is 1.2567936012245144
+Perplexity of 'And constant stars in them I read such art' is 1.2310101401977622
+Perplexity of 'As 'Truth and beauty shall together thrive,' is 1.2707328351503524
+Perplexity of 'If from thyself, to store thou wouldst convert'; ' is 1.3208215028319308
+Perplexity of '  Or else of thee this I prognosticate:' is 1.312312047309438
+Perplexity of '  'Thy end is truth's and beauty's doom and date.'' is 1.1877142798016864
+Perplexity of 'XV' is 13.26021618727739
+Perplexity of 'When I consider every thing that grows' is 1.2161436898227402
+Perplexity of 'Holds in perfection but a little moment,' is 1.1434297565661002
+Perplexity of 'That this huge stage presenteth nought but shows' is 1.1608116854462944
+Perplexity of 'Whereon the stars in secret influence comment;' is 1.186221102646541
+Perplexity of 'When I perceive that men as plants increase,' is 1.169234189428958
+Perplexity of 'Cheered and checked even by the self-same sky,' is 1.2304313415629617
+Perplexity of 'Vaunt in their youthful sap, at height decrease,' is 1.1826340952917456
+Perplexity of 'And wear their brave state out of memory;' is 1.2323886548426075
+Perplexity of 'Then the conceit of this inconstant stay' is 1.226488743232691
+Perplexity of 'Sets you most rich in youth before my sight,' is 1.159111747696964
+Perplexity of 'Where wasteful Time debateth with decay' is 1.1691806378032708
+Perplexity of 'To change your day of youth to sullied night,' is 1.221150108903466
+Perplexity of '  And all in war with Time for love of you,' is 1.2211102212847196
+Perplexity of '  As he takes from you, I engraft you new.' is 1.1758153008944612
+Total lines: 225
+Average Perplexity: 2.2608427995634632

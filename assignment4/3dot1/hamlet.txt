@@ -1,0 +1,15 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "hamlet" using cosine-similarity on tf-idf matrix are:
+1: hamlet; 1.0
+2: horatio; 0.9986925669311633
+3: polonius; 0.9974764490345985
+4: guildenstern; 0.9973431193139264
+5: laertes; 0.9972680312132605
+6: ophelia; 0.9968929643211012
+7: rosencrantz; 0.996723789810047
+8: gertrude; 0.9963514888437152
+9: denmark; 0.9956908639285522
+10: fortinbras; 0.9929578415938483

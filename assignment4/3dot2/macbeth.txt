@@ -1,0 +1,16 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+Computing PPMI matrix...
+
+The 10 most similar words to "macbeth" using cosine-similarity on PPMI matrix are:
+1: macbeth; 1.0000000000000002
+2: macduff; 0.33677178222648474
+3: london; 0.3193657365664275
+4: apprehend; 0.2922269660062785
+5: loss; 0.28986570802143174
+6: banquo; 0.2885755184344845
+7: doubt; 0.2861436111559021
+8: hastings; 0.282255112896104
+9: advantage; 0.28204599809350794
+10: talk; 0.2812532902068587

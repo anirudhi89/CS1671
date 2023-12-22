@@ -1,0 +1,6 @@
+2.0 Baseline Training Set
+
+File Name: data/complex_words_training.txt
+0.43275
+1.0
+0.604083057058105

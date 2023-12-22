@@ -1,0 +1,27 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "romeo" using cosine-similarity on term-document frequency matrix are:
+1: grubs; 1.0
+2: unharm; 1.0
+3: wrenching; 1.0
+4: smatter; 1.0
+5: holder; 1.0
+6: maidenhoods; 1.0
+7: perjuries; 1.0
+8: puffs; 1.0
+9: deformities; 1.0
+10: bescreen; 1.0
+
+The 10 most similar words to "romeo" using cosine-similarity on term-context frequency matrix are:
+1: romeo; 0.9999999999999998
+2: caesar; 0.7307095666559857
+3: hector; 0.7224806313823454
+4: she; 0.7183504583949566
+5: there; 0.6963468461019763
+6: he; 0.6876921706436314
+7: antonio; 0.6868410939446492
+8: dead; 0.676849337349979
+9: cassio; 0.6745032030041237
+10: god; 0.6741168014458847

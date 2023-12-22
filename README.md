@@ -35,3 +35,4 @@ Keep in mind that building this docker image will take some time (25-30 minutes)
 
 ## Assignment 4: Vector Space Models
 - Vector Space Model to find similar words in a dataset of Shakespeare plays
+- Score: 100/100

@@ -1,0 +1,27 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "ophelia" using cosine-similarity on term-document frequency matrix are:
+1: enseamed; 1.0
+2: salary; 1.0
+3: mining; 1.0
+4: ambiguous; 1.0
+5: compost; 1.0
+6: mugger; 1.0
+7: unmaster; 1.0
+8: unfortified; 1.0
+9: southerly; 1.0
+10: mallecho; 1.0
+
+The 10 most similar words to "ophelia" using cosine-similarity on term-context frequency matrix are:
+1: ophelia; 1.0
+2: now; 0.5722407761229703
+3: then; 0.5413473846140742
+4: juliet; 0.5395510954630568
+5: therefore; 0.5280425654156058
+6: still; 0.5262757967438702
+7: yet; 0.524388493961123
+8: cassio; 0.515206565294721
+9: that; 0.5101199028763808
+10: how; 0.5080845520820128

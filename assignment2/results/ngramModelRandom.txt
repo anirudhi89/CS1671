@@ -1,0 +1,67 @@
+For :
+`m = create_ngram_model(NgramModel, 'shakespeare_input.txt', 2)`
+m.random_text(250)
+My output was:
+
+“Fir yous in me,
+Tews rome, whave don, bequardoseent. Lore himpon his him, Lornextee imparrociss,
+And lin courepat inche
+To to er somentrund arthenceight mestatch fich ourd: lothearguand lade this gracteare Dukeetche ill, way clord:
+POLIA:
+GRANTONSON:
+“
+
+For:
+`m = create_ngram_model(NgramModel, 'shakespeare_input.txt', 3)`
+m.random_text(250)
+My output was:
+“
+First stay
+Mustir!
+
+STER:
+No, and you.
+
+IMONATUS OF WOLSEY:
+Which but hims;
+And mark, and befortune who he his do doth,
+As with strong the it die, I hears to too.
+
+THARD POLOFERDINAL PAGEN:
+I would thence scound,
+Here! stard, be you? while. O, bear t
+“
+
+For:
+`m = create_ngram_model(NgramModel, 'shakespeare_input.txt', 4)`
+m.random_text(250)
+My output was:
+
+“
+First Lord ink yours, you promise my havior Granding-man observe her me save thou knots; with directive me by out thou liver.
+
+CONRADE:
+Marry he be too loves much of more!
+
+PEASEBLOSSOM:
+Good the sword:
+These wolves:
+O, thou heard; give highness him
+“
+
+For:
+`m = create_ngram_model(NgramModel, 'shakespeare_input.txt', 7)`
+m.random_text(250)
+My output was:
+
+“
+First Clown:
+He sent my brains?
+O, look! it stands too far,
+That will but in that verse and next unto your father's bleed for greater than she is, and thou wert thou have
+gleaned, it is when bear.
+
+CELIA:
+Let him breaking a hand to friends
+Untwine th
+“

@@ -1,0 +1,15 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "romeo" using cosine-similarity on tf-idf matrix are:
+1: romeo; 1.0000000000000002
+2: tybalt; 0.9987227744168333
+3: capulet; 0.997982043848183
+4: mercutio; 0.9948418445434294
+5: laurence; 0.9923732202639255
+6: benvolio; 0.99143056091438
+7: juliet; 0.9876074689087709
+8: thursday; 0.9870516077968386
+9: capulets; 0.9821500335760278
+10: county; 0.9801657015382397

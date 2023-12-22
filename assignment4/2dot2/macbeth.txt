@@ -1,0 +1,27 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "macbeth" using cosine-similarity on term-document frequency matrix are:
+1: intrenchant; 1.0
+2: gouts; 1.0
+3: prepares; 1.0
+4: anticipatest; 1.0
+5: smacking; 1.0
+6: fitful; 1.0
+7: possets; 1.0
+8: antidote; 1.0
+9: swimmers; 1.0
+10: cyme; 1.0
+
+The 10 most similar words to "macbeth" using cosine-similarity on term-context frequency matrix are:
+1: macbeth; 1.0
+2: capulet; 0.7369838029066288
+3: macduff; 0.6807910433097155
+4: puck; 0.6662544745254702
+5: othello; 0.6559428496078522
+6: clown; 0.6532890704812111
+7: biondello; 0.6479096859352941
+8: re; 0.6476466542164782
+9: oswald; 0.6417962901245113
+10: bertram; 0.6397214349070113

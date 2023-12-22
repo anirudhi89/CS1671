@@ -1,0 +1,6 @@
+2.0 Baseline Development Set
+
+File Name: data/complex_words_development.txt
+Precision: 0.418
+Recall: 1.0
+F Score: 0.5895627644569816

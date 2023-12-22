@@ -1,0 +1,15 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "othello" using cosine-similarity on tf-idf matrix are:
+1: othello; 0.9999999999999999
+2: desdemona; 0.999968851270677
+3: iago; 0.9996652735092993
+4: roderigo; 0.9988394777022797
+5: cassio; 0.9985406545803934
+6: cyprus; 0.9966307152061796
+7: brabantio; 0.9961357920733929
+8: montano; 0.9952041984257278
+9: lodovico; 0.9946308220584588
+10: emilia; 0.9925295933326195

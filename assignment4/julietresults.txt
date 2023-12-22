@@ -1,0 +1,52 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+Computing PPMI matrix...
+
+The 10 most similar words to "juliet" using cosine-similarity on term-document frequency matrix are:
+1: juliet; 0.9999999999999999
+2: capulet; 0.9899494936611666
+3: angelical; 0.9899494936611665
+4: suspecting; 0.9899494936611665
+5: outcry; 0.9899494936611665
+6: needly; 0.9899494936611665
+7: behests; 0.9899494936611665
+8: franciscan; 0.9899494936611665
+9: healthsome; 0.9899494936611665
+10: uncomfortable; 0.9899494936611665
+
+The 10 most similar words to "juliet" using cosine-similarity on term-context frequency matrix are:
+1: juliet; 0.9999999999999999
+2: warwick; 0.7605860612697121
+3: lucius; 0.7572798806352675
+4: gloucester; 0.7325815098760331
+5: antonio; 0.7257120649096317
+6: helena; 0.7222425324074834
+7: othello; 0.7215767990471125
+8: servants; 0.7215132676180231
+9: brutus; 0.7137469138863252
+10: claudio; 0.7079554932283221
+
+The 10 most similar words to "juliet" using cosine-similarity on tf-idf matrix are:
+1: juliet; 1.0
+2: capulet; 0.9893472283878927
+3: tybalt; 0.9893162492327944
+4: mercutio; 0.9884763597482836
+5: romeo; 0.9876074689087709
+6: benvolio; 0.9868236951586506
+7: laurence; 0.9865962122612398
+8: ghostly; 0.9839443304758108
+9: thursday; 0.982885642901611
+10: capulets; 0.9810362694915192
+
+The 10 most similar words to "juliet" using cosine-similarity on PPMI matrix are:
+1: juliet; 1.0
+2: orlando; 0.39402196349012525
+3: proteus; 0.39111858915513587
+4: silvia; 0.38366042725272376
+5: hero; 0.35615341188488386
+6: pisanio; 0.35312662478890483
+7: lysander; 0.35286578215019804
+8: demetrius; 0.35249298876747376
+9: nurse; 0.3511809157612859
+10: anne; 0.34495368891805356

@@ -1,0 +1,15 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "ophelia" using cosine-similarity on tf-idf matrix are:
+1: ophelia; 1.0000000000000002
+2: rosencrantz; 0.9999977542162446
+3: guildenstern; 0.9999823695019591
+4: gertrude; 0.9999782280149981
+5: polonius; 0.9999696433071235
+6: denmark; 0.9999017464723962
+7: horatio; 0.9996161448713502
+8: fortinbras; 0.9992042077265749
+9: laertes; 0.998758321731091
+10: hamlet; 0.9968929643211012

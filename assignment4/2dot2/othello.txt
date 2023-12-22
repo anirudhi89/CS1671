@@ -1,0 +1,27 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "othello" using cosine-similarity on term-document frequency matrix are:
+1: twiggen; 1.0
+2: unreconciled; 1.0
+3: gulfs; 1.0
+4: suspicions; 1.0
+5: locusts; 1.0
+6: enmesh; 1.0
+7: castigation; 1.0
+8: qualification; 1.0
+9: housewives; 1.0
+10: extern; 1.0
+
+The 10 most similar words to "othello" using cosine-similarity on term-context frequency matrix are:
+1: othello; 1.0
+2: juliet; 0.7215767990471125
+3: bertram; 0.691487038423838
+4: cloten; 0.6906889908282035
+5: lucius; 0.6821057114046672
+6: falstaff; 0.6808613561174326
+7: emilia; 0.680009255387445
+8: biondello; 0.6665213019812886
+9: clown; 0.66452456836875
+10: lodovico; 0.6629149518767476

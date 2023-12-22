@@ -1,0 +1,16 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+Computing PPMI matrix...
+
+The 10 most similar words to "ophelia" using cosine-similarity on PPMI matrix are:
+1: ophelia; 0.9999999999999999
+2: horatio; 0.356592019566382
+3: orlando; 0.3478285827944847
+4: hamlet; 0.33846949175639945
+5: gertrude; 0.3345129144401569
+6: ashamed; 0.3341945638503792
+7: cordelia; 0.3334954347052416
+8: kneeling; 0.33338492178947254
+9: marina; 0.3323795491971443
+10: haven; 0.33030465895384453

@@ -1,0 +1,15 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+
+The 10 most similar words to "macbeth" using cosine-similarity on tf-idf matrix are:
+1: macbeth; 1.0000000000000002
+2: banquo; 0.9993261301599661
+3: macduff; 0.9981768792725391
+4: thane; 0.9975952432649183
+5: cawdor; 0.9968080014704679
+6: duncan; 0.9963056474386398
+7: malcolm; 0.9963056474386398
+8: dunsinane; 0.9945492951416118
+9: fleance; 0.9940734552108542
+10: donalbain; 0.9935383895339275

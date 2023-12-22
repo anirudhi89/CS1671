@@ -1,0 +1,16 @@
+Computing term document matrix...
+Computing tf-idf matrix...
+Computing term context matrix...
+Computing PPMI matrix...
+
+The 10 most similar words to "hamlet" using cosine-similarity on PPMI matrix are:
+1: hamlet; 1.0
+2: nurse; 0.3931791928602703
+3: orlando; 0.384407284149629
+4: romeo; 0.3794057113272594
+5: gracious; 0.3789452573009245
+6: pity; 0.37893056025124433
+7: tidings; 0.375369862293255
+8: warrant; 0.3750081784374076
+9: warwick; 0.36716689365640515
+10: absence; 0.3669682799128215
